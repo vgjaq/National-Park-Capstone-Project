@@ -1,0 +1,1645 @@
+Park,observed_on,mammal_count,num_mammals_observed,Alces alces,Antilocapra americana,Bison bison,Ursus americanus,Ursus arctos,Cervus canadensis,Canis lupus,Procyon lotor,Odocoileus virginianus,Odocoileus hemionus,ParkType,Region,State,RecreationVisits,ConcessionerLodging,ConcessionerCamping,TentCampers,RVCampers,Backcountry
+Acadia NP,2014-06,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Northeast ,ME,338845,0,0,19848,4761,285
+Acadia NP,2014-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,ME,561073,0,0,35091,8349,341
+Acadia NP,2014-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,ME,638152,0,0,36438,8394,285
+Acadia NP,2015-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,ME,344362,0,0,8067,2481,84
+Acadia NP,2015-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,ME,48912,0,0,0,0,0
+Acadia NP,2016-06,6,4,0,0,0,0,0,0,0,0,1,0,National Park,Northeast ,ME,445410,0,0,25488,7938,303
+Acadia NP,2016-07,7,2,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,ME,696854,0,0,39942,11757,353
+Acadia NP,2016-08,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,ME,735945,0,360,40557,11649,381
+Acadia NP,2016-10,6,3,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,ME,412416,0,0,12270,3219,0
+Acadia NP,2017-06,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,ME,476191,0,343,24372,9360,298
+Acadia NP,2017-07,4,2,0,0,0,0,0,0,0,0,2,0,National Park,Northeast ,ME,743529,0,188,39429,12642,325
+Acadia NP,2017-08,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,ME,762436,0,368,39864,11874,336
+Acadia NP,2017-09,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,ME,595388,0,556,27054,13554,253
+Acadia NP,2017-10,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,ME,507594,0,102,10446,4974,87
+Acadia NP,2017-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,ME,53006,0,0,0,0,0
+Acadia NP,2018-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,ME,12167,0,0,0,0,0
+Acadia NP,2018-05,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Northeast ,ME,249050,0,25,11325,3912,126
+Acadia NP,2018-06,12,7,0,0,0,0,0,0,0,1,2,0,National Park,Northeast ,ME,499163,0,296,25626,10479,323
+Acadia NP,2018-07,8,5,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,ME,759165,0,188,37218,12723,345
+Acadia NP,2018-08,15,7,0,0,0,0,0,0,0,0,2,0,National Park,Northeast ,ME,767219,0,370,37923,12579,345
+Acadia NP,2018-09,5,3,0,0,0,0,0,0,0,0,2,0,National Park,Northeast ,ME,600397,0,485,25128,14097,271
+Acadia NP,2018-10,4,3,0,0,0,0,0,0,0,0,1,0,National Park,Northeast ,ME,488204,0,0,7524,4425,62
+Acadia NP,2019-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,ME,226156,0,4,10416,3327,0
+Acadia NP,2019-06,7,5,0,0,0,0,0,0,0,0,1,0,National Park,Northeast ,ME,490720,0,102,23721,10383,263
+Acadia NP,2019-07,10,6,0,0,0,0,0,0,0,0,1,0,National Park,Northeast ,ME,756439,0,117,36135,11853,357
+Acadia NP,2019-08,7,4,0,0,0,0,0,0,0,1,3,0,National Park,Northeast ,ME,759735,0,242,39093,11637,396
+Acadia NP,2019-09,6,4,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,ME,603273,0,500,22425,15174,185
+Acadia NP,2019-10,6,3,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,ME,436194,0,125,9195,5322,83
+Acadia NP,2019-12,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,ME,12865,0,0,0,0,0
+Arches NP,2014-08,1,1,0,1,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,173416,0,0,2265,1488,121
+Arches NP,2014-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,115545,0,0,2400,1572,108
+Arches NP,2015-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,115859,0,0,2570,2026,89
+Arches NP,2016-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,119122,0,0,2786,1674,314
+Arches NP,2016-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,188340,0,0,2946,2273,84
+Arches NP,2016-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,146250,0,0,2808,2150,0
+Arches NP,2017-03,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,128508,0,0,0,0,6
+Arches NP,2017-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,188726,0,0,0,0,25
+Arches NP,2017-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,177764,0,0,0,0,7
+Arches NP,2017-09,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,187603,0,0,0,0,9
+Arches NP,2018-01,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,31810,0,0,230,257,0
+Arches NP,2018-04,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,167156,0,0,1631,2219,40
+Arches NP,2018-08,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,183840,0,0,2060,1431,47
+Arches NP,2018-09,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,206254,0,0,1334,1253,28
+Arches NP,2018-10,6,4,0,0,0,0,0,0,0,0,0,2,National Park,Intermountain ,UT,147996,0,0,2618,2165,33
+Arches NP,2019-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,30239,0,0,0,0,2
+Arches NP,2019-04,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,168788,0,0,1612,2130,46
+Arches NP,2019-05,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,217474,0,0,1720,2271,64
+Arches NP,2019-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,208993,0,0,2916,1855,23
+Arches NP,2019-09,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,207857,0,0,2128,1650,28
+Badlands NP,2010-06,3,3,0,1,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,192904,1308,5635,388,103,265
+Badlands NP,2012-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,209064,545,7125,638,68,141
+Badlands NP,2012-08,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,189830,1669,7292,536,95,163
+Badlands NP,2013-05,9,5,0,0,2,0,0,0,0,0,0,1,National Park,Midwest ,SD,65043,826,2941,825,247,38
+Badlands NP,2013-06,4,3,0,1,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,177507,1179,6627,1938,342,542
+Badlands NP,2013-07,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,225096,1590,9356,2937,327,298
+Badlands NP,2013-09,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,104029,1005,7938,1482,456,163
+Badlands NP,2013-11,3,3,0,0,0,0,0,0,0,0,0,1,National Park,Midwest ,SD,16663,0,65,148,91,7
+Badlands NP,2014-01,4,2,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,9548,0,0,11,8,0
+Badlands NP,2014-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,63131,800,3249,779,194,336
+Badlands NP,2014-06,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,168011,1941,8026,1596,714,316
+Badlands NP,2014-07,2,2,0,1,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,210370,2207,9907,1972,589,181
+Badlands NP,2015-01,1,1,0,1,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,10414,0,11,0,11,0
+Badlands NP,2015-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,27193,174,673,30,46,123
+Badlands NP,2015-06,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,191593,1865,10233,790,220,278
+Badlands NP,2015-07,3,2,0,0,2,0,0,0,0,0,0,0,National Park,Midwest ,SD,245400,2094,10777,1417,42,211
+Badlands NP,2016-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,78863,1203,5552,840,42,143
+Badlands NP,2016-06,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,196209,2013,8854,1706,251,192
+Badlands NP,2016-07,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,249194,2298,10385,1607,228,169
+Badlands NP,2016-08,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,217071,2082,10127,1550,334,353
+Badlands NP,2016-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,129350,1523,9850,939,475,326
+Badlands NP,2016-11,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,17970,0,0,182,0,14
+Badlands NP,2017-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,11149,0,0,5,0,7
+Badlands NP,2017-03,2,2,0,1,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,21498,0,122,25,0,89
+Badlands NP,2017-05,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,85967,1135,7057,704,162,386
+Badlands NP,2017-06,5,2,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,213966,2029,10822,1749,170,439
+Badlands NP,2017-07,4,2,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,263506,2216,11689,1039,158,285
+Badlands NP,2017-08,5,3,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,237125,1938,9910,767,177,738
+Badlands NP,2017-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,127598,1370,5818,380,96,112
+Badlands NP,2017-10,2,2,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,33426,769,1664,155,35,85
+Badlands NP,2017-12,3,3,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,9737,0,11,4,1,8
+Badlands NP,2018-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,16616,0,13,29,4,129
+Badlands NP,2018-05,6,5,0,0,2,0,0,0,0,0,0,0,National Park,Midwest ,SD,84527,1067,1745,358,139,527
+Badlands NP,2018-06,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,208645,1937,2810,516,158,470
+Badlands NP,2018-07,10,6,0,1,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,263863,2163,2958,818,161,652
+Badlands NP,2018-08,4,3,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,217350,1965,2881,603,101,526
+Badlands NP,2018-09,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,116826,1517,2505,411,148,338
+Badlands NP,2018-10,4,3,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,33527,601,612,133,30,141
+Badlands NP,2018-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,16442,0,5,4,2,6
+Badlands NP,2019-03,2,1,0,2,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,16517,0,8,7,2,2
+Badlands NP,2019-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,25083,107,155,56,12,66
+Badlands NP,2019-05,6,3,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,71885,813,1306,277,77,408
+Badlands NP,2019-06,11,4,0,0,1,0,0,0,0,0,0,2,National Park,Midwest ,SD,201516,1375,4118,755,166,580
+Badlands NP,2019-07,13,4,0,0,0,0,0,0,0,0,0,1,National Park,Midwest ,SD,250898,1642,5740,868,221,510
+Badlands NP,2019-08,4,2,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,207743,1401,4865,1014,181,456
+Badlands NP,2019-09,5,2,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,118262,1003,2707,398,196,328
+Badlands NP,2019-10,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,37727,751,911,107,67,129
+Badlands NP,2019-11,2,2,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,15450,0,8,5,7,5
+Big Bend NP,2008-08,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,14082,3569,114,1289,38,494
+Big Bend NP,2009-03,3,3,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,47909,4994,1217,6686,4933,4914
+Big Bend NP,2009-06,2,2,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,24593,3913,83,2441,359,713
+Big Bend NP,2009-09,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,21066,4266,646,1612,295,1875
+Big Bend NP,2010-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,TX,30595,4243,924,3471,1053,1466
+Big Bend NP,2010-06,2,1,0,0,0,2,0,0,0,0,0,0,National Park,Intermountain ,TX,13561,4126,373,2927,182,500
+Big Bend NP,2010-12,2,1,0,0,0,2,0,0,0,0,0,0,National Park,Intermountain ,TX,26843,3439,597,2676,1683,2622
+Big Bend NP,2011-04,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,15444,4526,895,6156,2203,668
+Big Bend NP,2011-05,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,39919,3786,223,2172,520,190
+Big Bend NP,2011-06,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,21392,2989,144,3214,187,68
+Big Bend NP,2011-07,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,15188,3284,72,1206,94,49
+Big Bend NP,2012-04,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,27375,4375,974,4918,1925,950
+Big Bend NP,2012-05,3,1,0,0,0,3,0,0,0,0,0,0,National Park,Intermountain ,TX,37775,3735,373,2641,418,541
+Big Bend NP,2012-06,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,19330,2758,245,1900,180,506
+Big Bend NP,2013-01,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Intermountain ,TX,22986,3931,1090,3923,2902,1801
+Big Bend NP,2013-02,4,3,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,TX,46573,3774,1099,2500,5056,1389
+Big Bend NP,2013-05,3,3,0,0,0,2,0,0,0,0,0,0,National Park,Intermountain ,TX,39578,4091,773,3301,1168,872
+Big Bend NP,2013-07,3,2,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,13801,3052,292,1863,1255,579
+Big Bend NP,2013-08,3,1,0,0,0,3,0,0,0,0,0,0,National Park,Intermountain ,TX,13856,3003,95,2016,153,861
+Big Bend NP,2013-09,3,3,0,0,0,1,0,0,0,0,1,0,National Park,Intermountain ,TX,14020,2642,190,1779,276,528
+Big Bend NP,2013-10,8,7,0,0,0,1,0,0,0,1,0,0,National Park,Intermountain ,TX,30835,1618,168,1280,385,526
+Big Bend NP,2013-11,14,11,0,0,0,2,0,0,0,1,0,0,National Park,Intermountain ,TX,22710,4230,846,3735,1322,3230
+Big Bend NP,2013-12,9,2,0,0,0,8,0,0,0,0,0,0,National Park,Intermountain ,TX,22310,3506,862,3482,1930,3069
+Big Bend NP,2014-01,5,4,0,0,0,1,0,0,0,0,1,2,National Park,Intermountain ,TX,28410,4378,1328,4623,3141,2787
+Big Bend NP,2014-02,7,4,0,0,0,2,0,0,0,0,0,0,National Park,Intermountain ,TX,24159,3908,1208,2401,4309,2399
+Big Bend NP,2014-03,7,3,0,0,0,3,0,0,0,0,1,0,National Park,Intermountain ,TX,53839,4658,1399,7214,4603,5291
+Big Bend NP,2014-04,6,6,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,38574,4448,1406,6613,3918,1795
+Big Bend NP,2014-05,3,3,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,23653,4184,799,4024,830,1199
+Big Bend NP,2014-07,2,1,0,0,0,2,0,0,0,0,0,0,National Park,Intermountain ,TX,14359,3222,235,2079,178,638
+Big Bend NP,2014-08,10,8,0,0,0,0,0,0,0,0,1,0,National Park,Intermountain ,TX,16246,2875,169,2092,162,729
+Big Bend NP,2014-09,5,4,0,0,0,2,0,0,0,0,0,0,National Park,Intermountain ,TX,22475,2777,184,1834,206,589
+Big Bend NP,2014-10,3,2,0,0,0,2,0,0,0,0,0,0,National Park,Intermountain ,TX,29882,4119,766,4130,722,2095
+Big Bend NP,2014-12,7,5,0,0,0,0,0,0,0,0,0,2,National Park,Intermountain ,TX,21373,3728,945,4533,1888,3667
+Big Bend NP,2015-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,TX,39199,4181,1207,3116,5156,2184
+Big Bend NP,2015-03,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Intermountain ,TX,68292,4648,1442,6632,3738,8606
+Big Bend NP,2015-04,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,43927,4500,1395,8278,4555,2960
+Big Bend NP,2015-05,5,4,0,0,0,2,0,0,0,0,1,0,National Park,Intermountain ,TX,30707,4336,340,5373,1032,2185
+Big Bend NP,2015-06,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,TX,16697,4523,455,3896,441,886
+Big Bend NP,2015-07,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,22887,4215,353,3175,222,805
+Big Bend NP,2015-10,3,3,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,23237,4121,886,4421,984,2624
+Big Bend NP,2015-11,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,TX,42687,4318,1149,6620,2623,3730
+Big Bend NP,2015-12,2,1,0,0,0,2,0,0,0,0,0,0,National Park,Intermountain ,TX,29577,4436,898,1871,2406,4552
+Big Bend NP,2016-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,TX,54642,5040,1613,11453,4891,10241
+Big Bend NP,2016-04,3,2,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,37280,4147,1427,8879,3786,3282
+Big Bend NP,2016-05,4,3,0,0,0,2,0,0,0,0,1,0,National Park,Intermountain ,TX,40935,4317,1227,5587,838,2409
+Big Bend NP,2016-06,4,4,0,0,0,1,0,0,0,0,1,0,National Park,Intermountain ,TX,18630,4059,631,3824,301,1755
+Big Bend NP,2016-08,10,4,0,1,0,7,0,0,0,0,0,0,National Park,Intermountain ,TX,16144,3226,180,2417,269,751
+Big Bend NP,2016-09,3,1,0,0,0,3,0,0,0,0,0,0,National Park,Intermountain ,TX,18406,3840,517,1306,319,1805
+Big Bend NP,2016-10,4,2,0,0,0,4,0,0,0,0,0,0,National Park,Intermountain ,TX,26806,4321,1164,2350,637,2918
+Big Bend NP,2016-11,2,2,0,0,0,2,0,0,0,0,0,0,National Park,Intermountain ,TX,45443,4580,1425,8399,2945,4428
+Big Bend NP,2016-12,4,4,0,0,0,0,0,0,0,0,1,0,National Park,Intermountain ,TX,32947,2072,578,7025,3059,5668
+Big Bend NP,2017-01,2,1,0,0,0,2,0,0,0,0,0,0,National Park,Intermountain ,TX,35105,2095,668,6785,6226,4717
+Big Bend NP,2017-02,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,41670,1965,638,5481,7268,4051
+Big Bend NP,2017-03,2,2,0,0,0,1,0,0,0,0,1,0,National Park,Intermountain ,TX,74735,4946,1671,9325,6005,10548
+Big Bend NP,2017-04,5,5,0,0,0,1,0,1,0,0,1,1,National Park,Intermountain ,TX,49609,4184,1391,7732,3511,3351
+Big Bend NP,2017-05,7,6,0,0,0,2,0,0,0,0,1,0,National Park,Intermountain ,TX,37045,3999,344,5620,810,2073
+Big Bend NP,2017-06,2,1,0,0,0,2,0,0,0,0,0,0,National Park,Intermountain ,TX,23500,4281,114,2789,401,984
+Big Bend NP,2017-07,2,2,0,0,0,1,0,0,0,0,1,0,National Park,Intermountain ,TX,20599,3277,94,2895,868,826
+Big Bend NP,2017-10,5,3,0,0,0,4,0,0,0,0,1,0,National Park,Intermountain ,TX,35094,4164,380,4415,648,3807
+Big Bend NP,2017-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,TX,45739,4512,1419,7992,3474,4896
+Big Bend NP,2017-12,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,41064,4606,1352,6817,3584,4735
+Big Bend NP,2018-01,5,4,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,33434,4449,1420,5045,6263,3402
+Big Bend NP,2018-02,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,TX,42670,3959,1368,4646,6901,2806
+Big Bend NP,2018-03,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Intermountain ,TX,75897,4941,1572,10088,6157,5883
+Big Bend NP,2018-04,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,TX,48454,4039,1451,8089,4925,1917
+Big Bend NP,2018-05,3,3,0,0,0,2,0,0,0,0,0,0,National Park,Intermountain ,TX,35993,4411,1187,4635,902,998
+Big Bend NP,2018-06,3,2,0,0,0,2,0,0,0,0,0,0,National Park,Intermountain ,TX,20335,3762,518,2682,323,337
+Big Bend NP,2018-08,2,2,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,16895,2647,276,2239,88,378
+Big Bend NP,2018-09,6,4,0,0,0,3,0,0,0,0,1,0,National Park,Intermountain ,TX,21625,3331,703,2359,376,687
+Big Bend NP,2018-10,4,4,0,0,0,2,0,0,0,0,0,0,National Park,Intermountain ,TX,35547,4279,1325,4008,655,1646
+Big Bend NP,2018-11,2,1,0,0,0,2,0,0,0,0,0,0,National Park,Intermountain ,TX,46998,4440,1379,6238,3091,3597
+Big Bend NP,2018-12,2,2,0,0,0,0,0,0,0,0,1,0,National Park,Intermountain ,TX,42827,4727,1434,3638,3216,1761
+Big Bend NP,2019-01,2,2,0,0,0,0,0,0,0,0,1,0,National Park,Intermountain ,TX,29318,4440,1379,159,403,422
+Big Bend NP,2019-02,3,3,0,0,0,1,0,0,0,0,1,0,National Park,Intermountain ,TX,43129,4068,1222,4304,5172,2587
+Big Bend NP,2019-03,5,5,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,83826,5193,1543,9319,6184,5987
+Big Bend NP,2019-04,10,7,0,0,0,1,0,0,0,0,2,0,National Park,Intermountain ,TX,49312,4180,1271,8628,4572,2317
+Big Bend NP,2019-05,7,6,0,0,0,2,0,0,0,0,0,0,National Park,Intermountain ,TX,37411,4586,1185,4672,874,1136
+Big Bend NP,2019-06,7,7,0,0,0,1,0,1,0,0,1,0,National Park,Intermountain ,TX,21228,4005,602,3302,347,324
+Big Bend NP,2019-07,2,2,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,TX,21747,3260,532,2645,239,345
+Big Bend NP,2019-08,3,2,0,0,0,2,0,0,0,0,1,0,National Park,Intermountain ,TX,17238,2558,305,2414,316,325
+Big Bend NP,2019-09,5,3,0,0,0,4,0,0,0,0,0,0,National Park,Intermountain ,TX,21246,3445,569,2464,539,631
+Big Bend NP,2019-10,4,3,0,0,0,3,0,0,0,0,0,0,National Park,Intermountain ,TX,42724,4236,1256,2038,1031,1986
+Big Bend NP,2019-11,16,9,0,0,0,6,0,0,0,0,3,1,National Park,Intermountain ,TX,50688,4529,1320,7936,4265,3980
+Big Bend NP,2019-12,10,4,0,0,0,0,0,0,0,0,5,2,National Park,Intermountain ,TX,45965,4727,1434,6521,4903,3280
+Bryce Canyon NP,2008-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,183100,3505,0,5505,10551,201
+Bryce Canyon NP,2013-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,226736,9195,0,5535,10290,265
+Bryce Canyon NP,2013-08,1,1,0,1,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,206853,8814,0,5508,10161,191
+Bryce Canyon NP,2015-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,305465,7600,0,6600,9453,404
+Bryce Canyon NP,2015-07,2,2,0,1,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,265809,9111,0,5238,11586,311
+Bryce Canyon NP,2016-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,292369,6965,0,5306,7454,638
+Bryce Canyon NP,2016-06,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,380354,7529,0,6726,12168,545
+Bryce Canyon NP,2016-07,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,384390,8984,0,4491,11988,312
+Bryce Canyon NP,2016-09,4,3,0,0,0,0,0,0,0,0,0,2,National Park,Intermountain ,UT,366702,6583,0,6129,10131,258
+Bryce Canyon NP,2016-10,3,3,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,180925,6709,0,5702,3941,248
+Bryce Canyon NP,2017-05,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,330743,6939,0,4814,7262,594
+Bryce Canyon NP,2017-06,9,4,0,3,0,0,0,0,0,0,0,2,National Park,Intermountain ,UT,376786,6896,0,5982,10068,527
+Bryce Canyon NP,2017-07,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,416608,8762,0,4212,11355,305
+Bryce Canyon NP,2017-08,7,5,0,0,0,0,0,0,0,1,0,1,National Park,Intermountain ,UT,403964,8051,0,4215,11250,186
+Bryce Canyon NP,2017-10,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,243118,5898,0,3182,4140,211
+Bryce Canyon NP,2018-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,95204,2787,0,979,566,130
+Bryce Canyon NP,2018-04,3,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,185282,5038,0,2066,1942,218
+Bryce Canyon NP,2018-05,7,6,0,1,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,340351,6925,0,6679,4968,783
+Bryce Canyon NP,2018-06,9,5,0,1,0,0,0,0,0,0,0,3,National Park,Intermountain ,UT,409467,7327,0,8865,3822,522
+Bryce Canyon NP,2018-07,4,3,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,430020,8725,0,8355,3165,321
+Bryce Canyon NP,2018-08,3,3,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,393821,8181,0,8571,3894,304
+Bryce Canyon NP,2018-10,3,2,0,1,0,0,0,0,0,0,0,2,National Park,Intermountain ,UT,227297,4840,0,2741,2851,56
+Bryce Canyon NP,2019-04,1,1,0,1,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,207061,5257,0,1188,1522,14
+Bryce Canyon NP,2019-05,3,3,0,1,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,327975,6752,0,3110,2782,150
+Bryce Canyon NP,2019-06,4,2,0,1,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,398290,7468,0,5109,3681,577
+Bryce Canyon NP,2019-07,7,3,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,401970,8750,0,5664,3435,156
+Bryce Canyon NP,2019-08,7,3,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,383458,8184,0,5652,3450,186
+Bryce Canyon NP,2019-09,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,392428,6352,0,4662,4245,184
+Bryce Canyon NP,2019-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,232094,5373,0,2959,2926,97
+Canyonlands NP,2015-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,73625,0,0,1854,1172,10030
+Canyonlands NP,2016-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,29856,0,0,758,772,3624
+Canyonlands NP,2017-08,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,78510,0,0,1390,499,5256
+Canyonlands NP,2017-09,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,91372,0,0,1790,967,10241
+Canyonlands NP,2017-12,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,13985,0,0,176,226,375
+Canyonlands NP,2018-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,106796,0,0,1691,1389,13963
+Canyonlands NP,2019-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,89861,0,0,1254,1226,11896
+Canyonlands NP,2019-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,114464,0,0,1336,1168,13517
+Canyonlands NP,2019-06,3,3,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,92295,0,0,1574,834,8754
+Canyonlands NP,2019-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,82642,0,0,1117,1392,11086
+Canyonlands NP,2019-11,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,31582,0,0,526,557,3674
+Canyonlands NP,2019-12,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,13723,0,0,79,130,460
+Capitol Reef NP,2013-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,7608,0,0,12,46,7
+Capitol Reef NP,2015-06,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,118355,0,0,2613,2507,193
+Capitol Reef NP,2016-09,4,1,0,0,0,0,0,0,0,0,0,4,National Park,Intermountain ,UT,150775,0,0,1880,2826,181
+Capitol Reef NP,2017-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,58636,0,0,1846,1519,800
+Capitol Reef NP,2017-04,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,146830,0,0,1947,3402,659
+Capitol Reef NP,2017-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,175686,0,0,2224,2998,1042
+Capitol Reef NP,2017-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,135677,0,0,1857,2307,194
+Capitol Reef NP,2017-07,5,5,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,137856,0,0,3113,1649,103
+Capitol Reef NP,2017-08,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,113514,0,0,2838,1981,64
+Capitol Reef NP,2017-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,168104,0,0,1875,2619,236
+Capitol Reef NP,2018-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,84364,0,0,2771,2498,1022
+Capitol Reef NP,2018-04,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,137321,0,0,1899,4353,951
+Capitol Reef NP,2018-07,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,140103,0,0,4459,2928,43
+Capitol Reef NP,2018-08,5,4,0,0,0,0,0,0,0,0,0,2,National Park,Intermountain ,UT,121651,0,0,3701,2955,89
+Capitol Reef NP,2018-09,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,166826,0,0,4111,2741,248
+Capitol Reef NP,2018-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,42478,0,0,722,836,141
+Capitol Reef NP,2019-02,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,12368,0,0,75,61,8
+Capitol Reef NP,2019-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,73416,0,0,2228,1564,950
+Capitol Reef NP,2019-04,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,147156,0,0,2322,3693,807
+Capitol Reef NP,2019-06,10,7,0,0,0,0,0,1,0,0,0,3,National Park,Intermountain ,UT,151410,0,0,3783,2576,373
+Capitol Reef NP,2019-07,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,129372,0,0,3986,2050,74
+Capitol Reef NP,2019-08,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,127341,0,0,3713,2318,100
+Capitol Reef NP,2019-09,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,170057,0,0,3067,3106,263
+Capitol Reef NP,2019-10,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,146664,0,0,2527,4233,377
+Channel Islands NP,2008-06,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,36709,0,0,0,0,1992
+Channel Islands NP,2008-10,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,23139,0,0,0,0,1322
+Channel Islands NP,2010-04,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,22903,0,0,0,0,1180
+Channel Islands NP,2010-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,26806,0,0,0,0,2089
+Channel Islands NP,2010-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,22813,0,0,0,0,7845
+Channel Islands NP,2011-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,27136,0,0,0,0,1780
+Channel Islands NP,2011-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,38637,0,0,0,0,3166
+Channel Islands NP,2011-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,21264,0,0,0,0,3158
+Channel Islands NP,2011-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,19337,0,0,0,0,3216
+Channel Islands NP,2012-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,20902,0,0,0,0,841
+Channel Islands NP,2012-04,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,19663,0,0,0,0,1080
+Channel Islands NP,2012-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,36269,0,0,0,0,3772
+Channel Islands NP,2012-08,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,33227,0,0,0,0,3624
+Channel Islands NP,2012-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,24867,0,0,0,0,2540
+Channel Islands NP,2013-02,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,10671,0,0,0,0,261
+Channel Islands NP,2013-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,15541,0,0,0,0,1622
+Channel Islands NP,2013-06,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,24797,0,0,0,0,2776
+Channel Islands NP,2013-07,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,27997,0,0,0,0,3535
+Channel Islands NP,2013-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,26273,0,0,0,0,3803
+Channel Islands NP,2013-10,3,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,7193,0,0,0,0,117
+Channel Islands NP,2013-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,13638,0,0,0,0,896
+Channel Islands NP,2013-12,3,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,14332,0,0,0,0,489
+Channel Islands NP,2014-01,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,18927,0,0,0,0,267
+Channel Islands NP,2014-03,6,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,32109,0,0,0,0,1461
+Channel Islands NP,2014-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,25698,0,0,0,0,1818
+Channel Islands NP,2014-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,43584,0,0,0,0,2747
+Channel Islands NP,2014-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,50470,0,0,0,0,4106
+Channel Islands NP,2014-08,3,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,39208,0,0,0,0,4207
+Channel Islands NP,2014-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,18271,0,0,0,0,1331
+Channel Islands NP,2014-12,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,14819,0,0,0,0,515
+Channel Islands NP,2015-02,7,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,21653,0,0,0,0,326
+Channel Islands NP,2015-03,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,29901,0,0,0,0,1621
+Channel Islands NP,2015-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,23479,0,0,0,0,1538
+Channel Islands NP,2015-05,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,34023,0,0,0,0,2260
+Channel Islands NP,2015-06,5,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,33193,0,0,0,0,2946
+Channel Islands NP,2015-07,7,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,46749,0,0,0,0,4163
+Channel Islands NP,2015-08,3,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,35392,0,0,0,0,3238
+Channel Islands NP,2015-09,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,24994,0,0,0,0,3862
+Channel Islands NP,2015-10,10,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,21871,0,0,0,0,1972
+Channel Islands NP,2015-11,4,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,18913,0,0,0,0,873
+Channel Islands NP,2015-12,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,14801,0,0,0,0,223
+Channel Islands NP,2016-02,4,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,20168,0,0,0,0,602
+Channel Islands NP,2016-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,28054,0,0,0,0,1123
+Channel Islands NP,2016-04,4,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,26142,0,0,0,0,1213
+Channel Islands NP,2016-05,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,33476,0,0,0,0,2572
+Channel Islands NP,2016-06,4,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,39342,0,0,0,0,3267
+Channel Islands NP,2016-07,7,4,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,49119,0,0,0,0,3720
+Channel Islands NP,2016-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,28906,0,0,0,0,1325
+Channel Islands NP,2016-11,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,20029,0,0,0,0,767
+Channel Islands NP,2016-12,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,19288,0,0,0,0,499
+Channel Islands NP,2017-01,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,18887,0,0,0,0,298
+Channel Islands NP,2017-02,5,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,20325,0,0,0,0,226
+Channel Islands NP,2017-03,6,4,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,32263,0,0,0,0,1309
+Channel Islands NP,2017-04,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,33888,0,0,0,0,1775
+Channel Islands NP,2017-05,11,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,37528,0,0,0,0,2747
+Channel Islands NP,2017-06,5,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,44852,0,0,0,0,3051
+Channel Islands NP,2017-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,56194,0,0,0,0,3729
+Channel Islands NP,2017-08,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,40750,0,0,0,0,3107
+Channel Islands NP,2017-10,12,4,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,25495,0,0,0,0,2084
+Channel Islands NP,2017-11,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,23696,0,0,0,0,1019
+Channel Islands NP,2017-12,5,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,16746,0,0,0,0,400
+Channel Islands NP,2018-01,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,15986,0,0,0,0,284
+Channel Islands NP,2018-02,3,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,24878,0,0,0,0,523
+Channel Islands NP,2018-03,6,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,30668,0,0,0,0,1171
+Channel Islands NP,2018-04,4,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,37565,0,0,0,0,1672
+Channel Islands NP,2018-05,10,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,33616,0,0,0,0,1979
+Channel Islands NP,2018-06,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,39141,0,0,0,0,2183
+Channel Islands NP,2018-07,6,4,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,49533,0,0,0,0,3301
+Channel Islands NP,2018-08,5,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,39684,0,0,0,0,3377
+Channel Islands NP,2018-09,9,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,31267,0,0,0,0,2836
+Channel Islands NP,2018-10,4,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,26844,0,0,0,0,1843
+Channel Islands NP,2018-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,21703,0,0,0,0,1960
+Channel Islands NP,2018-12,6,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,15365,0,0,0,0,334
+Channel Islands NP,2019-01,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,9193,0,0,0,0,691
+Channel Islands NP,2019-02,4,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,22263,0,0,0,0,722
+Channel Islands NP,2019-03,13,4,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,34951,0,0,0,0,2270
+Channel Islands NP,2019-04,9,6,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,39218,0,0,0,0,2724
+Channel Islands NP,2019-05,10,4,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,39070,0,0,0,0,1962
+Channel Islands NP,2019-06,9,6,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,44915,0,0,0,0,2484
+Channel Islands NP,2019-07,6,4,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,47581,0,0,0,0,3019
+Channel Islands NP,2019-08,5,4,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,49793,0,0,0,0,3506
+Channel Islands NP,2019-09,8,3,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,CA,38681,0,0,0,0,2791
+Channel Islands NP,2019-10,11,5,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,36691,0,0,0,0,1528
+Channel Islands NP,2019-11,11,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,25212,0,0,0,0,1066
+Channel Islands NP,2019-12,7,4,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,22062,0,0,0,0,648
+Crater Lake NP,2012-08,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,OR,109410,8114,16723,3012,0,661
+Crater Lake NP,2015-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,OR,147623,7804,17211,1078,0,690
+Crater Lake NP,2016-07,3,3,0,0,0,0,0,0,0,0,0,2,National Park,Pacific West ,OR,190231,8062,16409,1300,0,1099
+Crater Lake NP,2016-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,OR,176895,7922,15812,2250,0,1102
+Crater Lake NP,2016-12,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,OR,4984,0,0,0,0,196
+Crater Lake NP,2017-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,OR,136567,7038,2210,0,0,221
+Crater Lake NP,2017-07,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,OR,208237,7679,15716,582,0,721
+Crater Lake NP,2017-08,4,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,OR,157429,7013,13792,2072,0,400
+Crater Lake NP,2018-01,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,OR,9220,0,0,0,0,147
+Crater Lake NP,2018-06,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,OR,110842,7468,6327,0,0,297
+Crater Lake NP,2018-07,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,OR,179570,7734,15104,2725,0,408
+Crater Lake NP,2018-08,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,OR,134628,7059,12399,2052,0,325
+Crater Lake NP,2018-09,6,6,0,0,0,0,0,0,0,0,0,2,National Park,Pacific West ,OR,110911,7831,8064,1962,0,257
+Crater Lake NP,2018-10,5,3,0,0,0,0,0,0,0,0,0,2,National Park,Pacific West ,OR,58308,2004,0,0,0,136
+Crater Lake NP,2019-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,OR,4800,0,0,0,0,264
+Crater Lake NP,2019-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,OR,44808,852,0,0,0,128
+Crater Lake NP,2019-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,OR,103442,8514,1090,0,0,130
+Crater Lake NP,2019-07,28,11,0,0,0,2,0,1,0,0,0,4,National Park,Pacific West ,OR,201191,7435,2349,1330,0,472
+Crater Lake NP,2019-08,8,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,OR,163472,7225,4854,1678,0,595
+Crater Lake NP,2019-09,12,6,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,OR,98266,7936,4185,1178,0,288
+Crater Lake NP,2019-10,18,10,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,OR,41635,2654,0,508,0,72
+Cuyahoga Valley NP,2012-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,203339,753,0,0,0,0
+Cuyahoga Valley NP,2013-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,78012,239,0,0,0,0
+Cuyahoga Valley NP,2013-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,104524,194,0,0,0,0
+Cuyahoga Valley NP,2013-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,181602,513,0,0,0,0
+Cuyahoga Valley NP,2014-01,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,89704,256,0,0,0,0
+Cuyahoga Valley NP,2014-04,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,198023,275,0,0,0,0
+Cuyahoga Valley NP,2015-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,250161,787,0,0,0,0
+Cuyahoga Valley NP,2015-12,2,2,0,0,0,0,0,0,0,0,1,0,National Park,Midwest ,OH,115147,572,0,0,0,0
+Cuyahoga Valley NP,2016-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,83784,222,0,0,0,0
+Cuyahoga Valley NP,2016-03,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Midwest ,OH,104225,323,0,0,0,0
+Cuyahoga Valley NP,2016-04,5,5,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,171879,471,0,0,0,0
+Cuyahoga Valley NP,2016-05,27,11,0,0,0,0,0,0,0,0,3,0,National Park,Midwest ,OH,255362,725,0,0,0,0
+Cuyahoga Valley NP,2016-06,2,2,0,0,0,0,0,0,0,0,1,0,National Park,Midwest ,OH,306943,564,0,0,0,0
+Cuyahoga Valley NP,2016-09,3,2,0,0,0,0,0,0,0,0,2,0,National Park,Midwest ,OH,236792,890,0,0,0,0
+Cuyahoga Valley NP,2016-10,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,245369,902,0,0,0,0
+Cuyahoga Valley NP,2016-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,149398,538,0,0,0,0
+Cuyahoga Valley NP,2016-12,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,116488,467,0,0,0,0
+Cuyahoga Valley NP,2017-01,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Midwest ,OH,94019,510,0,0,0,0
+Cuyahoga Valley NP,2017-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,90987,288,0,0,0,0
+Cuyahoga Valley NP,2017-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,181533,483,0,0,0,0
+Cuyahoga Valley NP,2017-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,242698,600,0,0,0,0
+Cuyahoga Valley NP,2017-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,247225,853,0,0,0,0
+Cuyahoga Valley NP,2017-07,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Midwest ,OH,282963,1068,0,0,0,0
+Cuyahoga Valley NP,2018-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,105152,625,0,0,0,0
+Cuyahoga Valley NP,2018-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,228620,940,0,0,0,0
+Cuyahoga Valley NP,2019-02,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Midwest ,OH,82061,301,0,0,0,0
+Cuyahoga Valley NP,2019-03,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,126521,425,0,0,0,0
+Cuyahoga Valley NP,2019-04,7,5,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,177318,465,0,0,0,0
+Cuyahoga Valley NP,2019-05,9,6,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,225949,645,0,0,0,0
+Cuyahoga Valley NP,2019-06,3,2,0,0,0,0,0,0,0,2,1,0,National Park,Midwest ,OH,284079,783,0,0,0,0
+Cuyahoga Valley NP,2019-07,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,284928,1036,0,0,0,0
+Cuyahoga Valley NP,2019-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,226681,794,0,0,0,0
+Cuyahoga Valley NP,2019-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,OH,203708,684,0,0,0,0
+Cuyahoga Valley NP,2019-11,7,5,0,0,0,0,0,0,0,0,3,0,National Park,Midwest ,OH,142329,545,0,0,0,0
+Cuyahoga Valley NP,2019-12,3,2,0,0,0,0,0,0,0,0,1,0,National Park,Midwest ,OH,110787,547,0,0,0,0
+Death Valley NP,2008-12,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,29099,4895,954,4864,7066,0
+Death Valley NP,2009-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,90401,4116,62,723,394,0
+Death Valley NP,2011-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,87843,5068,830,14941,23066,0
+Death Valley NP,2011-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,155234,5553,412,6691,6547,0
+Death Valley NP,2012-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,116560,6008,90,442,10,0
+Death Valley NP,2012-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,76490,3663,622,8339,21565,0
+Death Valley NP,2012-12,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,65140,3508,462,5510,5360,0
+Death Valley NP,2013-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,104159,2518,331,14243,18186,0
+Death Valley NP,2013-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,93874,1590,276,1475,1190,0
+Death Valley NP,2013-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,74910,1100,123,1066,688,0
+Death Valley NP,2014-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,122761,5479,1081,1491,1834,0
+Death Valley NP,2014-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,96526,1680,1134,3658,4096,0
+Death Valley NP,2015-01,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,79547,1951,2037,7760,11536,0
+Death Valley NP,2016-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,93970,2091,1847,17770,21651,0
+Death Valley NP,2016-03,21,9,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,209282,2531,2580,24966,30723,0
+Death Valley NP,2016-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,109486,2024,1942,5760,5046,0
+Death Valley NP,2016-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,101842,1365,1330,3917,2128,0
+Death Valley NP,2016-11,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,99779,1726,1031,14307,19370,0
+Death Valley NP,2016-12,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,86755,1535,809,11805,9386,0
+Death Valley NP,2017-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,78586,2093,1103,10538,16896,0
+Death Valley NP,2017-03,7,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,108119,2761,1651,16739,21392,0
+Death Valley NP,2017-04,5,5,0,1,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,107559,5353,1462,10627,9549,0
+Death Valley NP,2017-06,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,85150,2897,446,774,266,0
+Death Valley NP,2017-07,3,3,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,135277,5746,203,237,224,0
+Death Valley NP,2017-08,3,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,172052,5700,206,650,352,0
+Death Valley NP,2017-09,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,138167,3755,752,2006,1565,0
+Death Valley NP,2017-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,111268,3189,987,4685,4733,0
+Death Valley NP,2017-11,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,91802,2326,785,11661,17024,0
+Death Valley NP,2017-12,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,94320,2180,802,9363,11440,0
+Death Valley NP,2018-01,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,80396,1969,148,9768,11558,221
+Death Valley NP,2018-02,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,129711,1961,163,12414,18797,239
+Death Valley NP,2018-03,6,5,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,163823,2671,210,17030,22224,455
+Death Valley NP,2018-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,140669,2871,205,8500,6867,89
+Death Valley NP,2018-05,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,158670,2433,196,3427,2179,28
+Death Valley NP,2018-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,110111,2216,96,844,566,6
+Death Valley NP,2018-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,142972,4778,126,606,339,2
+Death Valley NP,2018-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,176518,2639,363,4545,5610,83
+Death Valley NP,2018-11,15,7,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,126623,2094,390,13627,20803,249
+Death Valley NP,2018-12,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,116226,2095,361,5581,6659,103
+Death Valley NP,2019-01,17,11,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,111954,1368,561,1600,1139,221
+Death Valley NP,2019-02,5,4,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,112925,1766,561,9334,15843,221
+Death Valley NP,2019-03,4,4,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,178553,2663,653,14403,22518,539
+Death Valley NP,2019-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,177696,2795,513,9786,10189,211
+Death Valley NP,2019-06,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,122013,1517,94,1398,934,23
+Death Valley NP,2019-09,7,3,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,168894,1862,221,2181,1485,135
+Death Valley NP,2019-10,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,138152,2389,495,6334,9376,105
+Death Valley NP,2019-11,4,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,132013,2125,495,14223,19098,267
+Death Valley NP,2019-12,12,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,135248,1947,469,10093,12032,90
+Denali NP & PRES,2008-07,3,2,0,0,0,0,1,0,0,0,0,0,National Park,Alaska,AK,129762,0,0,8629,9786,4124
+Denali NP & PRES,2008-08,6,4,0,0,0,0,0,0,2,0,0,0,National Park,Alaska,AK,119541,0,0,8997,8056,2940
+Denali NP & PRES,2009-05,2,2,0,0,0,0,0,0,1,0,0,0,National Park,Alaska,AK,24759,0,0,1431,1832,11740
+Denali NP & PRES,2009-06,6,4,0,0,0,0,2,0,0,0,0,0,National Park,Alaska,AK,90662,0,0,4516,10713,11210
+Denali NP & PRES,2009-07,2,2,0,0,0,0,0,0,1,0,0,0,National Park,Alaska,AK,102992,0,0,5762,12471,3375
+Denali NP & PRES,2009-08,10,5,0,0,0,0,4,0,3,0,0,0,National Park,Alaska,AK,97307,0,0,4947,10183,2201
+Denali NP & PRES,2010-05,2,2,0,0,0,0,0,0,1,0,0,0,National Park,Alaska,AK,29350,0,0,1024,3122,13768
+Denali NP & PRES,2010-06,13,5,0,0,0,0,3,0,3,0,0,0,National Park,Alaska,AK,90821,0,0,4334,11968,13446
+Denali NP & PRES,2010-07,11,6,1,0,0,0,2,0,2,0,0,0,National Park,Alaska,AK,110592,0,0,7099,12897,4624
+Denali NP & PRES,2010-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,104398,0,0,6275,11755,2725
+Denali NP & PRES,2011-05,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,33549,0,0,834,2743,15407
+Denali NP & PRES,2011-06,7,3,0,0,0,0,1,0,1,0,0,0,National Park,Alaska,AK,92585,0,0,4089,11880,13436
+Denali NP & PRES,2011-07,5,3,0,0,0,0,2,0,2,0,0,0,National Park,Alaska,AK,118271,0,0,7690,13241,5808
+Denali NP & PRES,2011-08,6,4,0,0,0,0,3,0,1,0,0,0,National Park,Alaska,AK,105823,0,0,5852,12743,2952
+Denali NP & PRES,2011-09,14,6,2,0,0,0,6,0,1,0,0,0,National Park,Alaska,AK,45263,0,0,2497,5606,6
+Denali NP & PRES,2012-06,9,3,0,0,0,0,3,0,2,0,0,0,National Park,Alaska,AK,101260,0,0,4186,14045,13430
+Denali NP & PRES,2012-07,12,4,0,0,0,0,2,0,2,0,0,0,National Park,Alaska,AK,102316,0,0,4186,14045,6171
+Denali NP & PRES,2012-08,15,3,0,0,0,0,1,0,2,0,0,0,National Park,Alaska,AK,108208,0,0,5389,12200,2920
+Denali NP & PRES,2012-09,15,5,0,0,0,0,7,0,1,0,0,0,National Park,Alaska,AK,37184,0,0,3145,9013,1332
+Denali NP & PRES,2013-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,1300,0,0,0,0,123
+Denali NP & PRES,2013-05,1,1,0,0,0,0,1,0,0,0,0,0,National Park,Alaska,AK,44947,0,0,258,623,13799
+Denali NP & PRES,2013-06,4,3,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,127243,0,0,4673,12521,12164
+Denali NP & PRES,2013-07,2,2,0,0,0,0,1,0,0,0,0,0,National Park,Alaska,AK,153636,0,0,7442,11781,4703
+Denali NP & PRES,2013-08,9,3,0,0,0,0,2,0,1,0,0,0,National Park,Alaska,AK,140079,0,0,5280,14262,2992
+Denali NP & PRES,2014-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,49380,0,0,242,551,14002
+Denali NP & PRES,2014-06,15,7,2,0,0,0,3,0,0,0,0,0,National Park,Alaska,AK,127291,0,0,5188,12872,13579
+Denali NP & PRES,2014-07,16,2,0,0,0,0,6,0,0,0,0,0,National Park,Alaska,AK,151285,0,0,7369,11974,4092
+Denali NP & PRES,2014-08,21,8,1,0,0,0,8,0,1,0,0,0,National Park,Alaska,AK,138254,0,0,8399,11130,3197
+Denali NP & PRES,2014-09,1,1,0,0,0,0,1,0,0,0,0,0,National Park,Alaska,AK,56890,0,0,4675,8886,954
+Denali NP & PRES,2015-05,7,5,0,0,0,0,1,0,2,0,0,0,National Park,Alaska,AK,55920,0,0,8399,11130,13034
+Denali NP & PRES,2015-06,15,6,3,0,0,0,4,0,0,0,0,0,National Park,Alaska,AK,136454,0,0,13476,7476,12406
+Denali NP & PRES,2015-07,9,4,1,0,0,0,4,0,0,0,0,0,National Park,Alaska,AK,155987,0,0,12562,6460,4006
+Denali NP & PRES,2015-08,4,3,1,0,0,0,1,0,0,0,0,0,National Park,Alaska,AK,146067,0,0,12553,5121,3314
+Denali NP & PRES,2015-09,2,2,0,0,0,0,1,0,0,0,0,0,National Park,Alaska,AK,57612,0,0,7718,3710,1087
+Denali NP & PRES,2016-05,5,5,0,0,0,0,2,0,1,0,0,0,National Park,Alaska,AK,50776,0,0,1340,1292,16951
+Denali NP & PRES,2016-06,4,2,0,0,0,0,3,0,0,0,0,0,National Park,Alaska,AK,139310,0,0,13501,5925,22466
+Denali NP & PRES,2016-07,23,8,0,0,0,0,7,0,1,0,0,0,National Park,Alaska,AK,160357,0,0,13527,5727,4486
+Denali NP & PRES,2016-08,11,5,3,0,0,0,1,0,0,0,0,0,National Park,Alaska,AK,151365,0,0,13351,4713,3171
+Denali NP & PRES,2016-09,1,1,1,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,69907,0,0,8550,3600,910
+Denali NP & PRES,2017-05,6,4,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,62497,0,1258,0,0,11206
+Denali NP & PRES,2017-06,48,8,6,0,0,0,12,0,8,0,0,0,National Park,Alaska,AK,158590,0,6869,0,0,13427
+Denali NP & PRES,2017-07,29,7,0,0,0,0,7,0,2,0,0,0,National Park,Alaska,AK,182400,0,7581,0,0,3542
+Denali NP & PRES,2017-08,13,9,1,0,0,0,2,0,1,0,0,0,National Park,Alaska,AK,155201,0,7579,0,0,2956
+Denali NP & PRES,2017-09,5,4,1,0,0,0,2,0,0,0,0,0,National Park,Alaska,AK,68323,0,3961,0,0,1240
+Denali NP & PRES,2018-03,3,1,3,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,4457,0,0,0,0,154
+Denali NP & PRES,2018-04,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,3653,0,0,0,0,1565
+Denali NP & PRES,2018-05,4,4,0,0,0,0,1,0,0,0,0,0,National Park,Alaska,AK,52147,0,1884,0,0,11500
+Denali NP & PRES,2018-06,33,12,7,0,0,0,6,0,0,0,0,0,National Park,Alaska,AK,141216,0,6672,0,0,2831
+Denali NP & PRES,2018-07,22,10,3,0,0,0,5,0,3,0,0,0,National Park,Alaska,AK,168177,0,7607,0,0,3493
+Denali NP & PRES,2018-08,47,12,5,0,0,0,18,0,1,0,0,0,National Park,Alaska,AK,150861,0,7709,0,0,2848
+Denali NP & PRES,2018-09,21,10,1,0,0,2,5,0,1,0,0,0,National Park,Alaska,AK,65251,0,3715,0,0,1304
+Denali NP & PRES,2018-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,3650,0,0,0,0,28
+Denali NP & PRES,2019-05,7,5,2,0,0,0,1,0,0,0,0,0,National Park,Alaska,AK,53995,0,2141,0,0,6700
+Denali NP & PRES,2019-06,71,19,10,0,0,1,10,0,0,0,0,0,National Park,Alaska,AK,144156,0,6773,0,0,9688
+Denali NP & PRES,2019-07,59,12,8,0,0,0,5,0,0,0,0,0,National Park,Alaska,AK,168078,0,7571,0,0,3881
+Denali NP & PRES,2019-08,29,9,4,0,0,1,6,0,0,0,0,0,National Park,Alaska,AK,154044,0,6304,0,0,2295
+Denali NP & PRES,2019-09,13,10,1,0,0,0,3,0,0,0,0,0,National Park,Alaska,AK,61504,0,3593,0,0,867
+Denali NP & PRES,2019-12,1,1,1,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,2715,0,0,0,0,4
+Everglades NP,2008-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,70884,0,0,414,461,587
+Everglades NP,2009-02,2,2,0,0,0,0,0,0,0,1,0,0,National Park,Southeast ,FL,107537,0,0,2433,3901,1458
+Everglades NP,2009-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,93031,0,0,241,197,1636
+Everglades NP,2009-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,64156,0,0,89,38,469
+Everglades NP,2009-12,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,91748,0,0,1533,916,3418
+Everglades NP,2010-06,1,1,0,0,0,0,0,0,0,1,0,0,National Park,Southeast ,FL,46388,0,0,25,20,158
+Everglades NP,2011-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,52814,0,0,7,9,16
+Everglades NP,2011-11,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,76578,0,0,505,348,517
+Everglades NP,2011-12,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,90890,0,0,581,405,0
+Everglades NP,2012-01,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,128689,0,0,2142,3345,1652
+Everglades NP,2012-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,132603,0,0,1743,1728,1463
+Everglades NP,2012-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,84150,0,0,91,217,375
+Everglades NP,2012-12,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,146640,0,0,1562,1755,1151
+Everglades NP,2013-03,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,144436,0,0,2282,2112,1496
+Everglades NP,2014-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,64324,0,0,24,13,64
+Everglades NP,2014-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,68965,0,0,691,322,0
+Everglades NP,2015-01,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,142660,0,0,2957,3079,3890
+Everglades NP,2015-03,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,149383,0,0,2525,1989,3103
+Everglades NP,2015-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,70711,0,0,71,100,184
+Everglades NP,2015-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,72567,0,0,25,16,115
+Everglades NP,2015-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,67529,0,0,13,33,82
+Everglades NP,2015-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,32717,0,0,12,3,246
+Everglades NP,2015-10,2,2,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,FL,62000,0,0,26,15,310
+Everglades NP,2016-01,6,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,116221,0,0,1760,2815,1061
+Everglades NP,2016-02,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,120197,0,0,2678,2598,5567
+Everglades NP,2016-03,7,3,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,134815,0,0,2024,3832,2995
+Everglades NP,2016-04,2,2,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,FL,65054,0,0,107,268,631
+Everglades NP,2016-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,73548,0,0,53,83,373
+Everglades NP,2016-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,64110,0,0,21,20,126
+Everglades NP,2016-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,53064,0,0,21,20,72
+Everglades NP,2016-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,47351,0,0,16,13,34
+Everglades NP,2016-09,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,44750,0,0,13,15,192
+Everglades NP,2016-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,55600,0,0,144,69,109
+Everglades NP,2016-11,3,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,69074,0,0,528,374,739
+Everglades NP,2016-12,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,87123,0,0,1045,692,827
+Everglades NP,2017-01,8,2,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,194200,0,0,1675,3374,3061
+Everglades NP,2017-02,2,2,0,0,0,0,0,0,0,1,0,0,National Park,Southeast ,FL,120646,0,0,1572,2786,6386
+Everglades NP,2017-03,3,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,126818,0,0,1515,1723,3591
+Everglades NP,2017-04,5,3,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,FL,98915,0,0,431,238,1793
+Everglades NP,2017-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,68958,0,0,5,0,59
+Everglades NP,2017-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,52425,0,0,0,0,33
+Everglades NP,2017-08,2,2,0,0,0,0,0,0,0,1,0,0,National Park,Southeast ,FL,85059,0,0,0,0,45
+Everglades NP,2017-10,3,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,42574,0,0,0,0,116
+Everglades NP,2017-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,49593,0,0,0,0,0
+Everglades NP,2017-12,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,87361,0,0,0,0,1483
+Everglades NP,2018-01,8,5,0,0,0,0,0,0,0,1,2,0,National Park,Southeast ,FL,33950,0,4777,0,0,2688
+Everglades NP,2018-03,9,2,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,45018,0,0,0,0,1565
+Everglades NP,2018-04,6,3,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,35737,0,0,0,0,0
+Everglades NP,2018-05,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,31090,0,0,0,0,0
+Everglades NP,2018-07,3,2,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,FL,36653,0,0,0,0,21
+Everglades NP,2018-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,26945,0,0,0,0,0
+Everglades NP,2018-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,58920,0,0,0,0,0
+Everglades NP,2018-11,4,2,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,74544,0,0,0,0,0
+Everglades NP,2018-12,8,4,0,0,0,2,0,0,0,0,0,0,National Park,Southeast ,FL,119290,0,0,0,0,0
+Everglades NP,2019-01,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,85838,0,4777,0,0,1528
+Everglades NP,2019-02,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,96953,0,5194,0,0,2647
+Everglades NP,2019-03,23,4,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,146859,0,3732,0,0,2572
+Everglades NP,2019-04,9,4,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,131278,0,541,0,0,1332
+Everglades NP,2019-05,5,3,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,77435,0,100,0,0,246
+Everglades NP,2019-06,6,2,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,68267,0,59,0,0,106
+Everglades NP,2019-07,4,2,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,63394,0,24,0,0,166
+Everglades NP,2019-08,5,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,80177,0,26,0,0,46
+Everglades NP,2019-09,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,60469,0,198,0,0,69
+Everglades NP,2019-10,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,FL,70222,0,687,0,0,273
+Everglades NP,2019-11,7,3,0,0,0,0,0,0,0,1,0,0,National Park,Southeast ,FL,103643,0,3618,0,0,1565
+Everglades NP,2019-12,19,6,0,0,0,3,0,0,0,0,0,0,National Park,Southeast ,FL,133765,0,7945,0,0,2182
+Gates of the Arctic NP & PRES,2011-08,2,2,0,0,0,0,0,0,1,0,0,0,National Park,Alaska,AK,3716,0,0,0,0,2645
+Gates of the Arctic NP & PRES,2012-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,196,0,0,0,0,0
+Gates of the Arctic NP & PRES,2016-04,4,4,0,0,0,0,0,0,1,0,0,0,National Park,Alaska,AK,172,0,0,0,0,0
+Gates of the Arctic NP & PRES,2016-05,31,10,1,0,0,0,0,0,2,0,0,0,National Park,Alaska,AK,164,0,0,0,0,2
+Gates of the Arctic NP & PRES,2016-07,1,1,0,0,0,0,0,0,1,0,0,0,National Park,Alaska,AK,3026,0,0,0,0,2978
+Gates of the Arctic NP & PRES,2018-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,2980,0,0,0,0,2893
+Glacier Bay NP & PRES,2008-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,98691,1595,0,204,0,1994
+Glacier Bay NP & PRES,2008-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,95191,0,0,175,0,1444
+Glacier Bay NP & PRES,2010-05,5,5,0,0,0,0,1,0,1,0,0,0,National Park,Alaska,AK,60540,9,0,16,0,1037
+Glacier Bay NP & PRES,2010-06,9,7,0,0,0,1,0,0,1,0,0,0,National Park,Alaska,AK,104399,682,0,169,0,1209
+Glacier Bay NP & PRES,2010-08,4,2,0,0,0,0,0,0,2,0,0,0,National Park,Alaska,AK,106284,1362,0,142,0,1293
+Glacier Bay NP & PRES,2010-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,66647,86,0,1,0,570
+Glacier Bay NP & PRES,2011-06,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,104190,3410,0,235,0,1152
+Glacier Bay NP & PRES,2012-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,59431,315,0,68,0,411
+Glacier Bay NP & PRES,2012-07,1,1,0,0,0,0,1,0,0,0,0,0,National Park,Alaska,AK,110247,4028,0,228,0,1530
+Glacier Bay NP & PRES,2013-07,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,114650,4187,0,222,0,1440
+Glacier Bay NP & PRES,2013-08,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,116945,4499,0,209,0,1133
+Glacier Bay NP & PRES,2014-07,2,2,0,0,0,0,1,0,0,0,0,0,National Park,Alaska,AK,119282,4662,0,327,0,1534
+Glacier Bay NP & PRES,2014-08,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,110795,4019,0,173,0,1458
+Glacier Bay NP & PRES,2014-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,79648,15,0,4,0,1385
+Glacier Bay NP & PRES,2016-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,80664,458,0,80,0,516
+Glacier Bay NP & PRES,2016-06,1,1,0,0,0,0,0,0,1,0,0,0,National Park,Alaska,AK,115336,3364,0,215,0,1009
+Glacier Bay NP & PRES,2016-07,3,3,0,0,0,0,1,0,0,0,0,0,National Park,Alaska,AK,115207,4651,0,346,0,2055
+Glacier Bay NP & PRES,2017-02,2,2,0,0,0,0,0,0,1,0,0,0,National Park,Alaska,AK,172,0,0,0,0,16
+Glacier Bay NP & PRES,2017-07,10,3,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,116760,4988,0,279,0,1741
+Glacier Bay NP & PRES,2017-08,2,2,0,0,0,0,0,0,1,0,0,0,National Park,Alaska,AK,122709,4822,0,270,0,1518
+Glacier Bay NP & PRES,2017-09,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Alaska,AK,95615,290,0,6,0,712
+Glacier Bay NP & PRES,2018-05,6,3,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,111753,462,0,91,0,773
+Glacier Bay NP & PRES,2018-06,6,3,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,121804,3023,0,148,0,1007
+Glacier Bay NP & PRES,2018-07,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,130351,4572,0,286,0,1720
+Glacier Bay NP & PRES,2018-08,5,2,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,136280,4224,0,234,0,1171
+Glacier Bay NP & PRES,2019-05,5,4,0,0,0,0,1,0,0,0,0,0,National Park,Alaska,AK,121332,579,0,32,0,605
+Glacier Bay NP & PRES,2019-06,3,2,0,0,0,0,1,0,0,0,0,0,National Park,Alaska,AK,132054,4020,0,210,0,1128
+Glacier Bay NP & PRES,2019-07,8,7,0,0,0,0,2,0,2,0,0,0,National Park,Alaska,AK,152932,5075,0,238,0,914
+Glacier Bay NP & PRES,2019-08,8,5,1,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,145002,4613,0,252,0,1088
+Glacier Bay NP & PRES,2019-09,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,111922,121,0,12,0,235
+Glacier NP,2008-06,1,1,0,0,0,0,1,0,0,0,0,0,National Park,Intermountain ,MT,287059,24095,0,11005,11325,2502
+Glacier NP,2008-07,1,1,0,0,0,0,1,0,0,0,0,0,National Park,Intermountain ,MT,523881,40294,0,34517,30627,8163
+Glacier NP,2008-08,2,1,0,0,0,0,2,0,0,0,0,0,National Park,Intermountain ,MT,514317,40297,0,33564,27624,11604
+Glacier NP,2009-08,4,3,0,0,0,0,1,0,0,0,0,1,National Park,Intermountain ,MT,541997,40383,0,36044,32193,23607
+Glacier NP,2010-07,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,MT,673359,41313,0,39074,38811,9400
+Glacier NP,2010-08,9,8,0,0,0,1,0,1,0,0,1,2,National Park,Intermountain ,MT,632971,41357,0,37994,33114,12863
+Glacier NP,2010-09,2,1,0,0,0,0,2,0,0,0,0,0,National Park,Intermountain ,MT,300275,21972,0,10189,14769,4750
+Glacier NP,2011-08,6,6,0,0,0,1,1,0,0,0,0,0,National Park,Intermountain ,MT,532718,34491,0,37523,35172,11475
+Glacier NP,2012-07,7,5,0,0,0,0,1,0,0,0,0,0,National Park,Intermountain ,MT,630093,40219,0,38588,37755,8232
+Glacier NP,2012-08,6,4,0,0,0,2,2,0,0,0,0,0,National Park,Intermountain ,MT,604039,39906,0,40130,36006,13239
+Glacier NP,2012-09,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,MT,356975,23159,0,11007,14694,2594
+Glacier NP,2013-06,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,MT,343560,21005,0,15081,17550,2317
+Glacier NP,2013-07,14,10,0,0,0,1,1,0,0,0,1,0,National Park,Intermountain ,MT,645514,41181,0,41728,37875,8687
+Glacier NP,2013-08,3,1,0,0,0,0,3,0,0,0,0,0,National Park,Intermountain ,MT,626556,40218,0,40596,37776,15035
+Glacier NP,2013-09,7,5,1,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,MT,355471,23512,0,11150,16260,2700
+Glacier NP,2014-05,4,4,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,MT,112187,437,0,2226,2961,242
+Glacier NP,2014-06,2,1,0,0,0,0,2,0,0,0,0,0,National Park,Intermountain ,MT,334074,21517,0,12307,15018,1815
+Glacier NP,2014-07,4,3,0,0,0,2,0,0,0,0,0,1,National Park,Intermountain ,MT,699650,41312,0,40572,35109,8614
+Glacier NP,2014-08,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,MT,675119,40773,0,41309,33843,12828
+Glacier NP,2014-09,2,1,0,0,0,0,2,0,0,0,0,0,National Park,Intermountain ,MT,353497,13035,0,13414,16656,5757
+Glacier NP,2014-12,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,MT,11367,0,0,15,21,16
+Glacier NP,2015-05,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,MT,134741,197,0,3516,4395,576
+Glacier NP,2015-06,4,3,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,MT,414671,20057,0,21238,20718,3900
+Glacier NP,2015-07,13,9,2,0,0,1,3,0,0,0,0,0,National Park,Intermountain ,MT,689064,36447,0,39444,32907,10736
+Glacier NP,2015-08,9,6,1,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,MT,579007,31771,0,34906,24930,11428
+Glacier NP,2015-09,3,3,0,0,0,1,1,0,0,0,0,0,National Park,Intermountain ,MT,351388,17525,0,12265,14109,5431
+Glacier NP,2016-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,MT,55125,0,0,460,633,101
+Glacier NP,2016-05,14,12,1,0,0,0,0,1,0,0,1,2,National Park,Intermountain ,MT,183925,1584,0,4380,4731,578
+Glacier NP,2016-06,4,4,0,0,0,1,0,0,0,0,0,1,National Park,Intermountain ,MT,485017,18422,0,24513,24300,3521
+Glacier NP,2016-07,19,8,0,0,0,1,2,0,0,0,2,1,National Park,Intermountain ,MT,818481,33092,0,43496,36177,11143
+Glacier NP,2016-08,31,10,1,0,0,2,3,0,0,0,0,0,National Park,Intermountain ,MT,748565,30179,0,43352,35364,14446
+Glacier NP,2016-09,6,6,1,0,0,0,1,0,0,0,0,0,National Park,Intermountain ,MT,482592,16273,0,18544,23352,8019
+Glacier NP,2017-02,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,MT,13802,0,0,10,18,30
+Glacier NP,2017-05,12,8,2,0,0,2,1,1,0,0,0,1,National Park,Intermountain ,MT,177787,2628,0,4636,5061,442
+Glacier NP,2017-06,6,3,0,0,0,0,4,0,0,0,0,0,National Park,Intermountain ,MT,620962,21918,0,24835,26970,3760
+Glacier NP,2017-07,17,10,0,0,0,0,4,0,0,0,1,1,National Park,Intermountain ,MT,1009665,37458,0,43965,35412,11553
+Glacier NP,2017-08,33,13,1,0,0,0,5,0,0,0,2,2,National Park,Intermountain ,MT,908479,36205,0,44609,32208,14462
+Glacier NP,2017-09,7,5,0,0,0,0,2,0,0,0,0,0,National Park,Intermountain ,MT,389137,11019,0,9191,11193,3405
+Glacier NP,2018-05,4,4,1,0,0,0,0,0,0,0,1,0,National Park,Intermountain ,MT,195116,2428,0,4465,5613,358
+Glacier NP,2018-06,48,16,2,0,0,2,6,0,0,0,2,3,National Park,Intermountain ,MT,556304,25563,0,22326,25605,2661
+Glacier NP,2018-07,74,16,1,0,0,9,8,0,0,0,2,2,National Park,Intermountain ,MT,905959,36645,0,40664,36108,11308
+Glacier NP,2018-08,28,10,2,0,0,0,8,0,0,0,0,1,National Park,Intermountain ,MT,667688,28850,0,30984,24006,12371
+Glacier NP,2018-09,7,4,0,0,0,0,4,0,0,0,0,0,National Park,Intermountain ,MT,434600,13670,0,11018,16479,5165
+Glacier NP,2018-10,4,2,1,0,0,0,0,0,0,0,3,0,National Park,Intermountain ,MT,91973,0,0,818,1290,252
+Glacier NP,2018-12,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,MT,18781,0,0,12,69,23
+Glacier NP,2019-04,2,2,0,0,0,0,0,0,0,0,1,0,National Park,Intermountain ,MT,35491,0,0,118,165,57
+Glacier NP,2019-05,11,6,0,0,0,0,0,1,0,0,2,3,National Park,Intermountain ,MT,167403,2534,0,3554,5193,287
+Glacier NP,2019-06,25,13,0,0,0,3,3,0,0,0,3,1,National Park,Intermountain ,MT,544088,25468,0,22128,25629,3506
+Glacier NP,2019-07,150,22,9,0,0,16,4,0,0,0,4,12,National Park,Intermountain ,MT,879711,39320,0,39884,37662,10400
+Glacier NP,2019-08,72,19,5,0,0,2,8,0,1,0,1,1,National Park,Intermountain ,MT,771874,34997,0,39815,34143,13622
+Glacier NP,2019-09,17,10,0,0,0,1,3,0,0,0,1,1,National Park,Intermountain ,MT,488909,17641,0,12282,22272,6658
+Glacier NP,2019-10,2,2,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,MT,78408,0,0,302,873,113
+Glacier NP,2019-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,MT,20008,0,0,18,33,12
+Grand Canyon NP,2008-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,358409,59158,5076,7655,3504,23836
+Grand Canyon NP,2008-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,453651,64102,5743,19158,12673,35721
+Grand Canyon NP,2008-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,530291,71235,7326,18685,9995,36548
+Grand Canyon NP,2008-07,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,644915,78292,8443,32012,21952,33059
+Grand Canyon NP,2008-08,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,633985,76096,8273,25102,17752,51532
+Grand Canyon NP,2009-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,432940,68495,6046,20336,12841,39051
+Grand Canyon NP,2009-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,658993,83220,8749,32504,22222,28190
+Grand Canyon NP,2009-08,4,2,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,AZ,600442,76977,8215,25333,17710,26931
+Grand Canyon NP,2009-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,352207,62198,2248,10496,10021,26983
+Grand Canyon NP,2010-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,477863,63002,5508,29925,19024,30899
+Grand Canyon NP,2011-03,2,2,0,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,AZ,304583,47647,4533,7662,3400,24948
+Grand Canyon NP,2011-05,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,AZ,419569,68886,6157,25166,15038,41089
+Grand Canyon NP,2011-10,3,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,348203,61807,5639,15454,9739,27025
+Grand Canyon NP,2012-04,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,389777,65583,6586,15384,5765,31357
+Grand Canyon NP,2012-06,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,549688,82144,7641,23730,11044,36782
+Grand Canyon NP,2012-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,647953,92305,9055,25153,12374,33617
+Grand Canyon NP,2012-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,448925,70868,5616,17613,8538,29990
+Grand Canyon NP,2012-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,221927,35496,2816,3742,1457,16397
+Grand Canyon NP,2013-01,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,143405,18329,420,400,81,4233
+Grand Canyon NP,2013-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,468178,61302,5868,15217,8662,39000
+Grand Canyon NP,2013-08,5,5,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,633026,79725,5726,21004,10336,29170
+Grand Canyon NP,2013-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,217733,33000,2200,1707,772,16612
+Grand Canyon NP,2014-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,320348,68025,6377,11124,3528,33039
+Grand Canyon NP,2014-05,3,2,0,0,0,0,0,2,0,0,0,0,National Park,Intermountain ,AZ,463713,64823,5697,22700,12301,21368
+Grand Canyon NP,2014-06,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,AZ,563375,73877,7240,7258,3631,37075
+Grand Canyon NP,2014-07,2,2,0,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,AZ,621953,87211,8718,8131,3648,31307
+Grand Canyon NP,2014-08,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,671027,79645,7878,8571,3960,28174
+Grand Canyon NP,2014-09,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,AZ,488359,63860,5318,6796,4418,30261
+Grand Canyon NP,2014-10,3,3,0,0,0,0,0,2,0,0,0,1,National Park,Intermountain ,AZ,410933,60498,5634,1310,1613,29478
+Grand Canyon NP,2014-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,256705,39012,4107,161,0,20274
+Grand Canyon NP,2015-05,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,541338,50390,2528,23900,12430,48019
+Grand Canyon NP,2015-06,2,1,0,0,0,0,0,2,0,0,0,0,National Park,Intermountain ,AZ,614938,56791,2381,32401,15816,36312
+Grand Canyon NP,2015-07,3,2,0,0,0,0,0,2,0,0,0,0,National Park,Intermountain ,AZ,714911,61299,2422,35153,16790,31884
+Grand Canyon NP,2015-08,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,793412,55954,2392,31535,15143,28285
+Grand Canyon NP,2015-09,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,AZ,525090,50863,2376,24930,13116,31574
+Grand Canyon NP,2016-01,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,189103,22023,492,357,158,7848
+Grand Canyon NP,2016-03,5,2,0,2,0,0,0,3,0,0,0,0,National Park,Intermountain ,AZ,504295,49830,2346,22220,8360,25320
+Grand Canyon NP,2016-05,4,3,0,0,1,0,0,2,0,0,0,1,National Park,Intermountain ,AZ,588591,54748,2429,27898,9251,48188
+Grand Canyon NP,2016-06,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,AZ,700421,65267,2345,26394,12322,40978
+Grand Canyon NP,2016-07,5,5,0,0,1,0,0,2,0,0,0,0,National Park,Intermountain ,AZ,839086,72933,2387,28943,13360,35685
+Grand Canyon NP,2016-08,2,2,0,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,AZ,743158,66059,2517,24746,11569,33705
+Grand Canyon NP,2016-09,3,3,0,0,0,0,0,1,0,0,0,1,National Park,Intermountain ,AZ,578006,62679,2346,21250,10700,34119
+Grand Canyon NP,2016-10,5,3,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,517791,52416,2276,20041,9834,29581
+Grand Canyon NP,2016-11,3,3,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,AZ,333204,41557,2179,8318,3697,18827
+Grand Canyon NP,2016-12,5,5,0,0,0,0,0,1,0,0,0,1,National Park,Intermountain ,AZ,296873,36826,1628,813,53,13119
+Grand Canyon NP,2017-02,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,AZ,239154,28960,1335,238,84,9574
+Grand Canyon NP,2017-03,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,AZ,502739,54241,2925,11256,4982,28466
+Grand Canyon NP,2017-04,3,3,0,0,0,0,0,1,0,0,0,1,National Park,Intermountain ,AZ,590006,56319,2857,12227,5743,36895
+Grand Canyon NP,2017-05,7,5,0,0,0,0,0,1,0,0,0,1,National Park,Intermountain ,AZ,606247,58240,2624,16960,8558,24129
+Grand Canyon NP,2017-06,5,3,0,0,3,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,726916,71835,3475,20235,9451,40371
+Grand Canyon NP,2017-07,8,4,0,0,0,0,0,3,0,0,0,0,National Park,Intermountain ,AZ,837258,81874,4496,22740,11027,37926
+Grand Canyon NP,2017-08,5,4,0,0,1,0,0,2,0,0,0,0,National Park,Intermountain ,AZ,745613,78068,4277,22242,10369,30680
+Grand Canyon NP,2017-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,571946,62794,2476,17076,9028,35524
+Grand Canyon NP,2017-10,8,4,0,0,0,0,0,1,0,0,0,1,National Park,Intermountain ,AZ,529825,56690,2553,14968,7390,29480
+Grand Canyon NP,2017-11,7,3,0,0,0,0,0,3,0,0,0,0,National Park,Intermountain ,AZ,349326,42108,2467,8076,3697,19839
+Grand Canyon NP,2017-12,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,338106,38683,1918,794,312,11373
+Grand Canyon NP,2018-02,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,AZ,265949,32734,1346,875,276,10990
+Grand Canyon NP,2018-03,12,4,0,0,0,0,0,5,0,0,0,3,National Park,Intermountain ,AZ,503284,56369,3062,10017,4556,28524
+Grand Canyon NP,2018-04,6,4,0,0,0,0,0,4,0,0,0,0,National Park,Intermountain ,AZ,549416,54192,2717,12800,6527,37842
+Grand Canyon NP,2018-05,13,5,0,0,0,0,0,2,0,0,0,1,National Park,Intermountain ,AZ,637703,61218,2769,19208,9224,47993
+Grand Canyon NP,2018-06,14,7,0,0,2,0,0,4,0,0,0,0,National Park,Intermountain ,AZ,673474,74145,4190,18154,8745,41230
+Grand Canyon NP,2018-07,9,5,0,0,0,0,0,4,0,0,0,0,National Park,Intermountain ,AZ,799765,82958,5730,20181,9572,35432
+Grand Canyon NP,2018-08,10,6,0,0,3,0,0,3,0,0,0,0,National Park,Intermountain ,AZ,744826,78666,5624,18467,9068,29891
+Grand Canyon NP,2018-09,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,615783,64005,3626,17725,9423,35513
+Grand Canyon NP,2018-10,6,6,0,0,1,0,0,1,0,0,0,1,National Park,Intermountain ,AZ,555094,52582,3782,13845,7135,28816
+Grand Canyon NP,2018-11,7,3,0,0,0,0,0,5,0,0,0,0,National Park,Intermountain ,AZ,408794,39189,2717,5515,2499,21004
+Grand Canyon NP,2018-12,8,3,0,0,0,0,0,5,0,0,0,1,National Park,Intermountain ,AZ,369041,37379,1968,1539,677,11468
+Grand Canyon NP,2019-01,2,1,0,0,0,0,0,2,0,0,0,0,National Park,Intermountain ,AZ,225056,27065,895,1046,490,8692
+Grand Canyon NP,2019-02,9,4,0,0,0,0,0,4,0,0,0,3,National Park,Intermountain ,AZ,213050,27097,959,891,418,9905
+Grand Canyon NP,2019-03,7,5,0,0,0,0,0,4,0,0,0,1,National Park,Intermountain ,AZ,451228,56247,4118,8099,3638,25430
+Grand Canyon NP,2019-04,22,5,0,0,0,0,0,9,0,0,0,0,National Park,Intermountain ,AZ,562265,50079,4744,11487,6160,36876
+Grand Canyon NP,2019-05,11,3,0,0,0,0,0,7,0,0,0,0,National Park,Intermountain ,AZ,618598,50116,4188,15435,8587,46402
+Grand Canyon NP,2019-06,15,5,0,0,0,0,0,7,0,0,0,1,National Park,Intermountain ,AZ,643821,65851,5633,17335,9692,39717
+Grand Canyon NP,2019-07,21,8,0,0,1,0,0,8,0,0,0,1,National Park,Intermountain ,AZ,756860,64252,7390,15900,8058,34594
+Grand Canyon NP,2019-08,14,5,0,0,4,0,0,5,0,0,0,1,National Park,Intermountain ,AZ,700896,63080,6524,15139,7978,31280
+Grand Canyon NP,2019-09,18,8,0,0,1,0,0,2,0,0,0,2,National Park,Intermountain ,AZ,578852,62127,3804,15074,8753,34998
+Grand Canyon NP,2019-10,7,3,0,0,0,0,0,4,0,0,0,0,National Park,Intermountain ,AZ,551558,40968,3908,14215,7404,29266
+Grand Canyon NP,2019-11,16,5,0,0,0,0,0,6,0,0,0,5,National Park,Intermountain ,AZ,347847,35244,3463,3972,1710,18600
+Grand Canyon NP,2019-12,13,6,0,0,0,0,0,9,0,0,0,1,National Park,Intermountain ,AZ,324380,33796,1775,1615,677,4272
+Grand Teton NP,2008-07,4,3,0,0,2,0,1,0,0,0,0,0,National Park,Intermountain ,WY,587324,60047,103574,0,0,9750
+Grand Teton NP,2009-07,3,3,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,WY,622045,56540,103564,0,0,9643
+Grand Teton NP,2009-08,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Intermountain ,WY,568122,55338,86964,0,0,12208
+Grand Teton NP,2010-05,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,161320,5135,6965,0,0,487
+Grand Teton NP,2011-06,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Intermountain ,WY,436208,42916,38881,0,0,2055
+Grand Teton NP,2011-07,3,2,1,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,643386,58126,84583,0,0,9462
+Grand Teton NP,2012-06,1,1,1,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,484844,42396,49848,0,0,3119
+Grand Teton NP,2012-09,2,2,0,1,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,405477,20189,33498,0,0,4255
+Grand Teton NP,2013-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,45027,0,33,0,0,78
+Grand Teton NP,2013-06,2,2,0,1,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,509389,44314,57339,0,0,3115
+Grand Teton NP,2013-08,1,1,0,0,0,0,0,0,1,0,0,0,National Park,Intermountain ,WY,609953,54596,79957,0,0,11867
+Grand Teton NP,2013-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,420542,38141,43796,0,0,3870
+Grand Teton NP,2014-05,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Intermountain ,WY,199161,16306,20967,0,0,431
+Grand Teton NP,2014-06,4,4,0,1,0,1,0,0,0,0,0,0,National Park,Intermountain ,WY,515625,45680,60576,0,0,2434
+Grand Teton NP,2014-07,11,3,1,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,686200,59665,95594,0,0,9387
+Grand Teton NP,2014-09,1,1,1,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,372054,35582,46473,0,0,5172
+Grand Teton NP,2015-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,51638,0,66,0,0,102
+Grand Teton NP,2015-05,2,2,0,0,1,0,0,0,0,0,0,0,National Park,Intermountain ,WY,231708,9600,13909,0,0,487
+Grand Teton NP,2015-08,5,5,1,1,0,1,0,0,0,0,0,1,National Park,Intermountain ,WY,651245,50688,85457,0,0,12299
+Grand Teton NP,2015-09,3,3,0,0,1,1,0,0,0,0,0,0,National Park,Intermountain ,WY,474787,39569,98428,0,0,4953
+Grand Teton NP,2015-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,190681,5198,5540,0,0,0
+Grand Teton NP,2016-01,1,1,1,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,47501,0,0,0,0,0
+Grand Teton NP,2016-05,6,6,0,1,0,0,0,0,0,0,0,1,National Park,Intermountain ,WY,292318,14193,17549,0,0,1003
+Grand Teton NP,2016-06,3,3,0,1,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,603154,52122,78103,0,0,4467
+Grand Teton NP,2016-07,3,3,1,0,0,1,0,0,0,0,0,1,National Park,Intermountain ,WY,758253,62767,105830,0,0,8872
+Grand Teton NP,2016-08,2,2,0,1,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,633657,56383,85755,0,0,15497
+Grand Teton NP,2016-09,3,3,0,0,0,1,0,1,0,0,0,1,National Park,Intermountain ,WY,492451,5471,4808,0,0,5993
+Grand Teton NP,2016-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,186185,5512,4808,0,0,264
+Grand Teton NP,2016-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,50508,0,0,0,0,0
+Grand Teton NP,2016-12,4,3,2,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,WY,38329,129,33,0,0,10
+Grand Teton NP,2017-03,1,1,1,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,53366,55,82,0,0,0
+Grand Teton NP,2017-05,4,4,1,0,0,0,0,1,0,0,0,1,National Park,Intermountain ,WY,255583,12946,16141,0,0,790
+Grand Teton NP,2017-06,17,9,3,0,1,0,0,2,0,0,0,1,National Park,Intermountain ,WY,637683,53002,80763,0,0,3805
+Grand Teton NP,2017-07,9,6,3,0,1,1,0,0,0,0,0,0,National Park,Intermountain ,WY,739046,61686,109682,0,0,10493
+Grand Teton NP,2017-08,5,5,0,1,1,0,0,0,0,0,0,1,National Park,Intermountain ,WY,716690,57241,99597,0,0,19135
+Grand Teton NP,2017-09,2,2,1,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,482661,40703,57501,0,0,5493
+Grand Teton NP,2017-10,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,187499,4853,4043,79,205,217
+Grand Teton NP,2018-03,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,57276,46,82,0,0,148
+Grand Teton NP,2018-04,1,1,1,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,60541,0,99,0,0,131
+Grand Teton NP,2018-05,9,6,1,1,0,0,0,3,0,0,0,0,National Park,Intermountain ,WY,296885,6080,26269,0,0,998
+Grand Teton NP,2018-06,15,8,3,1,1,2,0,1,0,0,0,0,National Park,Intermountain ,WY,627055,18832,65819,0,0,3665
+Grand Teton NP,2018-07,57,15,20,3,0,2,0,6,0,0,0,5,National Park,Intermountain ,WY,795725,20707,90502,0,0,12315
+Grand Teton NP,2018-08,12,10,1,0,0,3,0,1,0,0,0,1,National Park,Intermountain ,WY,692074,21753,77506,0,0,14378
+Grand Teton NP,2018-09,18,8,6,2,0,4,0,1,0,1,0,2,National Park,Intermountain ,WY,558788,16636,55526,0,0,6698
+Grand Teton NP,2018-10,3,2,2,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,WY,207534,2258,4262,0,0,154
+Grand Teton NP,2018-11,11,5,1,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,44651,0,0,0,0,7
+Grand Teton NP,2019-01,1,1,1,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,56635,215,0,0,0,0
+Grand Teton NP,2019-03,1,1,1,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,65864,39,0,0,0,0
+Grand Teton NP,2019-04,9,4,2,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,WY,59105,0,0,0,0,101
+Grand Teton NP,2019-05,34,18,6,2,0,1,0,9,0,1,1,1,National Park,Intermountain ,WY,278529,13592,18571,0,0,744
+Grand Teton NP,2019-06,40,16,4,2,0,0,0,1,0,0,0,6,National Park,Intermountain ,WY,625441,48982,62192,0,0,3703
+Grand Teton NP,2019-07,30,12,5,4,0,5,0,1,0,0,0,4,National Park,Intermountain ,WY,775788,55988,87891,0,0,11697
+Grand Teton NP,2019-08,19,11,5,0,0,2,0,1,0,0,0,1,National Park,Intermountain ,WY,702022,52112,79226,0,0,14885
+Grand Teton NP,2019-09,43,10,10,5,0,7,0,7,0,0,0,8,National Park,Intermountain ,WY,517265,39764,59340,0,0,4837
+Grand Teton NP,2019-10,7,4,4,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,WY,186487,3864,4935,0,0,255
+Grand Teton NP,2019-11,8,6,2,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,48132,0,0,0,0,23
+Grand Teton NP,2019-12,3,1,3,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,46433,96,0,0,0,1
+Great Basin NP,2013-07,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,NV,21160,0,0,5572,2261,55
+Great Basin NP,2015-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,NV,21250,0,0,6674,2562,110
+Great Basin NP,2016-06,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,NV,17534,0,0,5313,2835,197
+Great Basin NP,2016-07,7,5,0,0,0,0,0,0,0,0,0,2,National Park,Pacific West ,NV,33885,0,0,9278,3560,153
+Great Basin NP,2016-10,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,NV,12030,0,0,1078,1295,232
+Great Basin NP,2017-06,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,NV,30982,0,0,5313,2835,51
+Great Basin NP,2017-07,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,NV,26286,0,0,9664,3734,85
+Great Basin NP,2017-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,NV,20230,0,0,6038,2065,123
+Great Basin NP,2018-06,3,2,0,0,0,0,0,0,0,0,0,2,National Park,Pacific West ,NV,19034,0,0,5716,3434,12
+Great Basin NP,2018-07,4,3,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,NV,26568,0,0,9524,3808,82
+Great Basin NP,2018-08,6,6,0,0,0,0,0,1,0,0,0,1,National Park,Pacific West ,NV,17868,0,0,6657,2275,120
+Great Basin NP,2018-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,NV,34032,0,0,5943,3462,30
+Great Basin NP,2019-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,NV,6100,0,0,70,770,2
+Great Basin NP,2019-06,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,NV,23246,0,0,1050,4200,9
+Great Basin NP,2019-07,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,NV,23290,0,0,8750,3500,7
+Great Basin NP,2019-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,NV,22735,0,0,3000,3395,3
+Great Basin NP,2019-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,NV,11772,0,0,1082,1834,0
+Great Smoky Mountains NP,2011-12,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,TN,471603,0,0,129,127,2922
+Great Smoky Mountains NP,2014-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,TN,1305063,1492,0,29312,17056,10877
+Great Smoky Mountains NP,2014-10,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,TN,1303450,1367,0,19624,21014,10289
+Great Smoky Mountains NP,2015-07,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,TN,1441603,1522,0,39369,19758,8751
+Great Smoky Mountains NP,2015-11,3,2,0,0,0,0,0,0,0,0,2,0,National Park,Southeast ,TN,707576,1029,0,1796,3323,5002
+Great Smoky Mountains NP,2015-12,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,TN,567585,0,0,359,227,2777
+Great Smoky Mountains NP,2016-01,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,TN,379730,0,0,472,218,2329
+Great Smoky Mountains NP,2016-03,3,1,0,0,0,0,0,0,0,0,3,0,National Park,Southeast ,TN,778211,473,0,4768,1921,14518
+Great Smoky Mountains NP,2016-10,4,4,0,0,0,0,0,0,0,1,0,0,National Park,Southeast ,TN,1466584,1419,0,27452,23476,14094
+Great Smoky Mountains NP,2017-01,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,TN,382161,0,0,466,364,1832
+Great Smoky Mountains NP,2017-04,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,TN,867375,1291,0,7625,5706,16723
+Great Smoky Mountains NP,2017-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,TN,907646,1288,0,18698,11056,14675
+Great Smoky Mountains NP,2017-07,3,1,0,0,0,0,0,0,0,0,3,0,National Park,Southeast ,TN,1492508,1521,0,32332,20762,9371
+Great Smoky Mountains NP,2017-08,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,TN,1235188,1405,0,25972,11492,9605
+Great Smoky Mountains NP,2017-09,2,2,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,TN,1282168,1255,0,16581,14608,7269
+Great Smoky Mountains NP,2017-10,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,TN,1336369,1395,0,21680,22814,11170
+Great Smoky Mountains NP,2017-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,TN,817238,1029,0,2890,3802,5388
+Great Smoky Mountains NP,2018-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,TN,399156,0,0,463,358,1980
+Great Smoky Mountains NP,2018-04,4,3,0,0,0,0,0,0,0,0,2,0,National Park,Southeast ,TN,820657,1242,0,6481,5651,15035
+Great Smoky Mountains NP,2018-05,6,5,0,0,0,0,0,0,0,0,2,0,National Park,Southeast ,TN,985145,1411,0,15292,11205,14475
+Great Smoky Mountains NP,2018-06,7,4,0,0,0,0,0,0,0,0,2,0,National Park,Southeast ,TN,1401741,1491,0,35004,21580,12017
+Great Smoky Mountains NP,2018-07,8,5,0,0,0,0,0,0,0,0,4,0,National Park,Southeast ,TN,1468273,1507,0,30714,23128,8945
+Great Smoky Mountains NP,2018-08,7,4,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,TN,1195360,1382,0,20026,13666,6588
+Great Smoky Mountains NP,2018-09,2,2,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,TN,1369637,1263,0,15700,10728,6725
+Great Smoky Mountains NP,2018-10,4,3,0,0,0,0,0,0,0,0,2,0,National Park,Southeast ,TN,1263665,1365,0,22038,21574,10853
+Great Smoky Mountains NP,2018-11,5,4,0,0,0,0,0,0,0,0,2,0,National Park,Southeast ,TN,867110,1029,0,1672,2439,5421
+Great Smoky Mountains NP,2018-12,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,TN,640357,0,0,974,590,1814
+Great Smoky Mountains NP,2019-01,3,2,0,0,0,0,0,0,0,0,2,0,National Park,Southeast ,TN,496743,0,0,520,236,1231
+Great Smoky Mountains NP,2019-02,2,1,0,0,0,0,0,0,0,0,2,0,National Park,Southeast ,TN,421770,0,0,463,358,1290
+Great Smoky Mountains NP,2019-03,6,4,0,0,0,0,0,0,0,0,2,0,National Park,Southeast ,TN,786305,321,0,4930,2399,10161
+Great Smoky Mountains NP,2019-04,5,3,0,0,0,0,0,0,0,0,3,0,National Park,Southeast ,TN,999259,1185,0,4603,3440,14067
+Great Smoky Mountains NP,2019-05,4,1,0,0,0,0,0,0,0,0,4,0,National Park,Southeast ,TN,1096056,1414,0,15098,10428,14686
+Great Smoky Mountains NP,2019-06,6,5,0,0,0,0,0,0,0,0,2,0,National Park,Southeast ,TN,1469857,1507,0,35106,21358,11496
+Great Smoky Mountains NP,2019-07,5,2,0,0,0,0,0,0,0,0,4,0,National Park,Southeast ,TN,1613133,1457,0,29404,21608,8909
+Great Smoky Mountains NP,2019-08,7,5,0,0,0,0,0,0,0,0,3,0,National Park,Southeast ,TN,1411231,1417,0,21335,14312,7143
+Great Smoky Mountains NP,2019-09,7,5,0,0,0,0,0,0,0,0,2,0,National Park,Southeast ,TN,1273326,1263,0,17417,14141,7141
+Great Smoky Mountains NP,2019-10,10,5,0,0,0,0,0,0,0,1,3,0,National Park,Southeast ,TN,1408013,1379,0,24066,22158,10970
+Great Smoky Mountains NP,2019-11,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,TN,851419,1012,0,1493,2512,5598
+Joshua Tree NP,2013-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,196575,0,0,26304,8283,2326
+Joshua Tree NP,2013-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,54688,0,0,9904,1974,460
+Joshua Tree NP,2013-12,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,128505,0,0,26192,4308,944
+Joshua Tree NP,2016-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,327072,0,0,37704,10356,4118
+Joshua Tree NP,2016-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,220378,0,0,24788,5139,1761
+Joshua Tree NP,2016-08,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,148427,0,0,5316,1053,361
+Joshua Tree NP,2016-11,4,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,248731,0,0,27372,7599,2938
+Joshua Tree NP,2017-01,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,240124,0,0,23852,8028,1511
+Joshua Tree NP,2017-03,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,404545,0,0,38484,12024,4163
+Joshua Tree NP,2017-04,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,361992,0,0,37100,11055,4015
+Joshua Tree NP,2017-06,5,5,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,125896,0,0,7864,1518,274
+Joshua Tree NP,2017-08,5,5,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,142340,0,0,6172,1260,306
+Joshua Tree NP,2017-09,4,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,157084,0,0,10644,2664,465
+Joshua Tree NP,2017-10,4,4,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,223008,0,0,25876,6855,1509
+Joshua Tree NP,2017-11,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,307770,0,0,25528,8040,1942
+Joshua Tree NP,2017-12,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,284398,0,0,23964,8541,1942
+Joshua Tree NP,2018-01,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,297435,0,0,21480,10029,1508
+Joshua Tree NP,2018-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,288392,0,0,19920,10212,2207
+Joshua Tree NP,2018-03,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,404708,0,0,35736,11220,3970
+Joshua Tree NP,2018-04,5,5,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,325715,0,0,33384,9657,3039
+Joshua Tree NP,2018-05,8,7,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,247786,0,0,27848,7695,1215
+Joshua Tree NP,2018-06,7,6,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,153556,0,0,7896,1569,236
+Joshua Tree NP,2018-07,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,130427,0,0,4508,1359,112
+Joshua Tree NP,2018-08,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,142015,0,0,6152,1362,170
+Joshua Tree NP,2018-09,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,149124,0,0,8536,1689,527
+Joshua Tree NP,2018-10,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,221232,0,0,21148,6849,1449
+Joshua Tree NP,2018-11,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,299880,0,0,25564,8073,3400
+Joshua Tree NP,2018-12,10,7,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,282112,0,0,10056,3771,1604
+Joshua Tree NP,2019-01,4,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,195993,0,0,21540,8565,1510
+Joshua Tree NP,2019-02,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,261230,0,0,20520,9492,2200
+Joshua Tree NP,2019-03,10,6,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,469183,0,0,35852,11838,4000
+Joshua Tree NP,2019-04,18,10,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,374789,0,0,33988,10455,2879
+Joshua Tree NP,2019-05,6,6,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,250928,0,0,20252,6501,1599
+Joshua Tree NP,2019-06,4,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,187551,0,0,9032,1728,284
+Joshua Tree NP,2019-07,7,4,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,138967,0,0,3856,909,125
+Joshua Tree NP,2019-08,4,4,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,120911,0,0,5452,1356,208
+Joshua Tree NP,2019-09,9,6,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,160294,0,0,11588,2808,282
+Joshua Tree NP,2019-10,7,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,233995,0,0,22324,5670,1531
+Joshua Tree NP,2019-11,5,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,291230,0,0,25176,9933,2506
+Joshua Tree NP,2019-12,4,4,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,303476,0,0,22720,8937,1060
+Kenai Fjords NP,2008-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,14286,0,0,0,0,19
+Kenai Fjords NP,2010-07,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Alaska,AK,73916,0,0,540,0,75
+Kenai Fjords NP,2012-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,67696,0,0,234,0,198
+Kenai Fjords NP,2013-11,1,1,0,0,0,0,1,0,0,0,0,0,National Park,Alaska,AK,68,0,0,0,0,3
+Kenai Fjords NP,2014-07,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,83496,0,0,360,0,129
+Kenai Fjords NP,2015-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,27483,0,0,72,0,0
+Kenai Fjords NP,2015-08,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,80699,0,0,418,0,132
+Kenai Fjords NP,2016-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,79499,0,0,364,0,136
+Kenai Fjords NP,2017-06,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,75399,0,0,264,0,170
+Kenai Fjords NP,2017-08,5,5,1,0,0,1,0,0,0,0,0,0,National Park,Alaska,AK,64760,0,0,336,0,133
+Kenai Fjords NP,2018-06,2,2,0,0,0,1,0,0,0,0,0,0,National Park,Alaska,AK,73689,0,0,346,0,201
+Kenai Fjords NP,2018-07,3,3,0,0,0,0,1,0,0,0,0,0,National Park,Alaska,AK,99606,0,0,356,0,159
+Kenai Fjords NP,2018-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,85055,0,0,286,0,195
+Kenai Fjords NP,2019-05,1,1,1,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,28944,0,0,28,0,27
+Kenai Fjords NP,2019-06,7,6,2,0,0,1,0,0,0,0,0,0,National Park,Alaska,AK,91280,0,0,356,0,106
+Kenai Fjords NP,2019-07,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,120632,0,0,364,0,145
+Kenai Fjords NP,2019-08,6,5,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,78129,0,0,318,0,154
+Kenai Fjords NP,2019-09,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Alaska,AK,33346,0,0,10,0,2
+Lassen Volcanic NP,2015-06,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,63211,1314,0,21882,5583,1453
+Lassen Volcanic NP,2016-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,29355,0,0,1059,576,439
+Lassen Volcanic NP,2016-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,120958,1644,0,19101,7974,2827
+Lassen Volcanic NP,2016-08,7,5,0,0,0,0,0,0,0,0,0,3,National Park,Pacific West ,CA,105114,1533,0,18255,6333,1859
+Lassen Volcanic NP,2017-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,31173,0,0,1176,624,171
+Lassen Volcanic NP,2017-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,58880,1017,0,7284,5076,356
+Lassen Volcanic NP,2017-07,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,122834,1556,0,15291,6714,1468
+Lassen Volcanic NP,2017-08,8,4,0,0,0,0,0,0,0,0,0,4,National Park,Pacific West ,CA,111514,1535,0,19191,8556,2220
+Lassen Volcanic NP,2017-09,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,88592,1154,0,11058,6204,1899
+Lassen Volcanic NP,2018-05,2,2,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West ,CA,34144,0,0,1374,729,303
+Lassen Volcanic NP,2018-07,9,6,0,0,0,3,0,0,0,0,0,3,National Park,Pacific West ,CA,114368,514,0,20406,8418,2360
+Lassen Volcanic NP,2018-08,3,2,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West ,CA,91422,1341,0,17268,6948,1594
+Lassen Volcanic NP,2018-09,4,4,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,75514,1057,0,9816,5178,1247
+Lassen Volcanic NP,2018-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,45236,220,0,2001,1491,207
+Lassen Volcanic NP,2019-06,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,63803,1090,426,8736,5238,791
+Lassen Volcanic NP,2019-07,9,6,0,0,0,2,0,0,0,0,0,1,National Park,Pacific West ,CA,105535,1368,795,17697,9111,2276
+Lassen Volcanic NP,2019-08,9,7,0,0,0,0,0,0,0,0,0,2,National Park,Pacific West ,CA,98109,1516,576,17976,7383,2383
+Lassen Volcanic NP,2019-09,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,75502,1141,276,9456,5937,647
+Lassen Volcanic NP,2019-10,6,4,0,0,0,1,0,0,0,0,0,1,National Park,Pacific West ,CA,88428,372,81,1824,1341,285
+Mammoth Cave NP,2015-10,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,KY,44724,1553,0,3312,2096,682
+Mammoth Cave NP,2016-07,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,KY,119420,4485,0,6984,1612,679
+Mammoth Cave NP,2017-05,2,2,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,KY,50498,914,0,4580,2356,366
+Mammoth Cave NP,2017-07,2,2,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,KY,115323,1570,0,7728,1584,494
+Mammoth Cave NP,2017-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,KY,84608,1437,0,7332,1780,454
+Mammoth Cave NP,2017-11,4,1,0,0,0,0,0,0,0,0,4,0,National Park,Southeast ,KY,22779,385,0,1108,888,179
+Mammoth Cave NP,2017-12,4,1,0,0,0,0,0,0,0,0,4,0,National Park,Southeast ,KY,15452,178,0,60,8,223
+Mammoth Cave NP,2018-04,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,KY,52052,958,0,2540,1464,600
+Mammoth Cave NP,2018-06,3,1,0,0,0,0,0,0,0,0,3,0,National Park,Southeast ,KY,74990,1546,0,7328,1636,1031
+Mammoth Cave NP,2018-08,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,KY,61888,1440,0,5932,1340,1465
+Mammoth Cave NP,2018-09,2,2,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,KY,44885,1161,0,3964,1524,517
+Mammoth Cave NP,2018-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,KY,44821,3306,0,4000,2280,478
+Mammoth Cave NP,2019-03,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,KY,45779,1073,0,1463,727,187
+Mammoth Cave NP,2019-04,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Southeast ,KY,55210,3335,0,2901,1302,292
+Mammoth Cave NP,2019-05,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,KY,53461,2927,0,5361,1757,482
+Mammoth Cave NP,2019-06,3,2,0,0,0,0,0,0,0,0,2,0,National Park,Southeast ,KY,76995,4371,0,6606,1344,286
+Mammoth Cave NP,2019-07,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,KY,102436,4787,0,6826,1190,430
+Mammoth Cave NP,2019-09,2,1,0,0,0,0,0,0,0,0,2,0,National Park,Southeast ,KY,43525,2440,0,2719,748,660
+Mammoth Cave NP,2019-10,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Southeast ,KY,48713,3306,0,4003,1685,218
+Mount Rainier NP,2009-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,269951,9693,0,20868,7533,11600
+Mount Rainier NP,2009-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,65988,1504,0,630,538,393
+Mount Rainier NP,2010-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,287090,10540,0,23718,8259,12743
+Mount Rainier NP,2011-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,272128,9825,0,23199,7653,11402
+Mount Rainier NP,2012-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,62732,1603,0,902,328,2215
+Mount Rainier NP,2013-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,287340,9799,0,26484,9228,14524
+Mount Rainier NP,2014-09,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,173827,7552,0,8168,4214,7963
+Mount Rainier NP,2015-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,69225,2753,0,1826,571,2759
+Mount Rainier NP,2015-07,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,WA,271118,9662,0,23280,7572,13789
+Mount Rainier NP,2015-08,3,3,0,0,0,1,0,0,0,0,0,1,National Park,Pacific West ,WA,259670,9494,0,24426,7926,10633
+Mount Rainier NP,2015-09,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West ,WA,179756,8022,0,8047,4390,7519
+Mount Rainier NP,2016-05,6,3,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,WA,93828,2587,0,1764,652,4684
+Mount Rainier NP,2016-06,5,5,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,187037,7363,0,8127,4395,8266
+Mount Rainier NP,2016-07,3,3,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West ,WA,296922,9485,0,19449,8469,14826
+Mount Rainier NP,2016-08,4,4,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West ,WA,313699,9302,0,26136,9837,16102
+Mount Rainier NP,2016-09,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,195579,8353,0,8453,5228,7683
+Mount Rainier NP,2016-10,6,4,0,0,0,0,0,0,0,0,0,2,National Park,Pacific West ,WA,76232,1320,0,336,400,300
+Mount Rainier NP,2017-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,97809,2094,0,2223,1109,4100
+Mount Rainier NP,2017-06,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,WA,189348,7224,0,8370,4056,6826
+Mount Rainier NP,2017-07,5,2,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,WA,329618,8066,0,27315,9858,15707
+Mount Rainier NP,2017-08,11,4,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West ,WA,323130,4027,0,28080,9603,14428
+Mount Rainier NP,2017-09,8,5,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,195641,3727,0,8268,4264,6424
+Mount Rainier NP,2018-06,4,3,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,WA,219842,3629,0,10569,4509,6229
+Mount Rainier NP,2018-07,15,6,0,0,0,0,0,1,0,0,0,2,National Park,Pacific West ,WA,349140,3986,0,29121,10170,15132
+Mount Rainier NP,2018-08,29,6,0,0,0,1,0,0,0,0,0,3,National Park,Pacific West ,WA,325914,3968,0,28521,9081,14980
+Mount Rainier NP,2018-09,12,5,0,0,0,1,0,0,0,0,0,1,National Park,Pacific West ,WA,191730,3829,0,11855,5270,7484
+Mount Rainier NP,2018-10,4,4,0,0,0,1,0,0,0,0,0,1,National Park,Pacific West ,WA,108455,1202,0,1322,708,5478
+Mount Rainier NP,2018-11,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,86310,1741,0,0,0,23
+Mount Rainier NP,2019-05,3,2,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,WA,106136,2478,0,1551,770,1759
+Mount Rainier NP,2019-06,16,7,0,0,0,0,0,0,0,1,0,1,National Park,Pacific West ,WA,219641,2835,0,12213,4491,7168
+Mount Rainier NP,2019-07,40,7,0,0,0,1,0,1,0,0,0,0,National Park,Pacific West ,WA,365200,9462,0,28974,10131,15597
+Mount Rainier NP,2019-08,51,6,0,0,0,9,0,0,0,0,0,3,National Park,Pacific West ,WA,378305,9362,0,31092,10071,14298
+Mount Rainier NP,2019-09,21,5,0,0,0,5,0,0,0,0,0,1,National Park,Pacific West ,WA,184166,7872,0,8672,4340,6395
+Mount Rainier NP,2019-10,7,6,0,0,0,1,0,1,0,0,0,0,National Park,Pacific West ,WA,74355,765,0,851,605,457
+Mount Rainier NP,2019-11,8,2,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,WA,48248,398,0,0,0,73
+Mount Rainier NP,2019-12,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,WA,39161,569,0,0,0,67
+North Cascades NP,2010-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,7983,0,0,0,0,6443
+North Cascades NP,2012-07,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,6320,0,0,0,0,4854
+North Cascades NP,2014-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,6546,0,0,0,0,5773
+North Cascades NP,2014-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,7487,0,0,0,0,8372
+North Cascades NP,2016-05,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,WA,572,0,0,0,0,613
+North Cascades NP,2016-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,9782,0,0,0,0,9854
+North Cascades NP,2017-07,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,8560,0,0,0,0,8169
+North Cascades NP,2017-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,6752,0,0,0,0,5368
+North Cascades NP,2018-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,3198,0,0,0,0,2395
+North Cascades NP,2018-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,10270,0,0,0,0,8496
+North Cascades NP,2018-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,7155,0,0,0,0,9452
+North Cascades NP,2019-06,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,WA,4520,0,0,0,0,3449
+North Cascades NP,2019-07,12,6,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,WA,10656,0,0,0,0,9288
+North Cascades NP,2019-08,5,3,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West ,WA,12576,0,0,0,0,9947
+Olympic NP,2008-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,253117,7526,627,5730,3324,4394
+Olympic NP,2008-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,469753,11681,1384,28566,17493,15756
+Olympic NP,2010-07,3,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,515266,9355,2419,30642,22339,15683
+Olympic NP,2012-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,261427,9752,522,6390,4836,4978
+Olympic NP,2012-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,639436,12743,668,31062,14858,18792
+Olympic NP,2013-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,460971,14601,512,28500,13713,14185
+Olympic NP,2013-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,373850,11282,758,15622,5925,7547
+Olympic NP,2014-05,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,WA,282962,9495,179,7502,4388,4615
+Olympic NP,2014-06,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,WA,396184,14330,569,17393,8261,8476
+Olympic NP,2014-07,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,585884,15710,2746,38658,15202,20852
+Olympic NP,2014-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,394495,13591,604,21548,9833,10851
+Olympic NP,2015-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,110453,3290,0,2062,1313,1153
+Olympic NP,2015-06,3,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,550337,11507,502,19150,12404,12606
+Olympic NP,2015-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,568820,14533,2203,30966,14353,21705
+Olympic NP,2015-08,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,WA,702159,14660,2719,33891,13517,23514
+Olympic NP,2015-09,3,2,0,0,0,0,0,2,0,0,0,0,National Park,Pacific West ,WA,391825,12808,1305,16411,7303,18981
+Olympic NP,2016-01,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,WA,97571,1571,0,645,612,125
+Olympic NP,2016-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,103509,2644,0,1127,615,464
+Olympic NP,2016-05,6,6,0,0,0,0,0,1,0,1,0,2,National Park,Pacific West ,WA,341524,7273,614,13562,7958,7701
+Olympic NP,2016-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,459305,10601,819,21690,10811,12299
+Olympic NP,2016-07,19,4,0,0,0,0,0,0,0,0,0,4,National Park,Pacific West ,WA,563492,10776,2509,35074,14995,25838
+Olympic NP,2016-08,7,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,813267,14394,2814,42475,15715,30680
+Olympic NP,2016-10,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West ,WA,114112,6460,134,2069,2101,1416
+Olympic NP,2017-04,2,2,0,0,0,0,0,1,0,0,0,1,National Park,Pacific West ,WA,202039,4352,616,5913,2727,3019
+Olympic NP,2017-05,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,WA,350885,7940,1028,14259,7458,12417
+Olympic NP,2017-06,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,500191,10737,1200,25946,10642,15164
+Olympic NP,2017-07,5,4,0,0,0,2,0,0,0,0,0,0,National Park,Pacific West ,WA,510184,12553,4121,46466,17445,34507
+Olympic NP,2017-08,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,764282,11011,2844,56516,17365,33469
+Olympic NP,2017-09,9,5,0,0,0,0,0,0,0,1,0,2,National Park,Pacific West ,WA,411658,10011,2294,20086,14456,18843
+Olympic NP,2017-10,3,3,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,WA,194127,5810,116,5572,3186,2353
+Olympic NP,2017-12,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,71335,2699,0,461,413,365
+Olympic NP,2018-03,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,WA,113917,1506,0,1228,806,1434
+Olympic NP,2018-05,3,3,0,0,0,0,0,0,0,1,0,2,National Park,Pacific West ,WA,305775,7129,317,14164,7968,11662
+Olympic NP,2018-06,11,3,0,0,0,1,0,0,0,0,0,8,National Park,Pacific West ,WA,462461,11122,2355,21897,13913,16436
+Olympic NP,2018-07,12,5,0,0,0,1,0,1,0,0,0,5,National Park,Pacific West ,WA,492372,11446,4470,37854,16263,35227
+Olympic NP,2018-08,13,7,0,0,0,0,0,0,0,0,0,5,National Park,Pacific West ,WA,655793,11585,2779,53352,17116,41636
+Olympic NP,2018-09,2,1,0,0,0,0,0,0,0,0,0,2,National Park,Pacific West ,WA,345371,9978,1301,22098,13299,15138
+Olympic NP,2018-10,7,7,0,0,0,0,0,1,0,1,0,1,National Park,Pacific West ,WA,193677,4950,0,4785,2498,2580
+Olympic NP,2018-11,4,4,0,0,0,1,0,0,0,1,0,1,National Park,Pacific West ,WA,90207,2692,0,646,1010,108
+Olympic NP,2018-12,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,WA,63753,3305,0,279,483,286
+Olympic NP,2019-03,3,3,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,WA,113720,1530,0,1840,1859,861
+Olympic NP,2019-04,9,4,0,0,0,0,0,3,0,0,0,2,National Park,Pacific West ,WA,159983,4070,165,3812,2556,2317
+Olympic NP,2019-05,4,3,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,WA,307426,8300,1190,11132,12162,8384
+Olympic NP,2019-06,25,13,0,0,0,2,0,0,0,0,0,10,National Park,Pacific West ,WA,499728,11462,6060,21607,9294,19037
+Olympic NP,2019-07,29,16,0,0,0,6,0,2,0,0,0,6,National Park,Pacific West ,WA,517058,11687,7532,33713,14746,26305
+Olympic NP,2019-08,10,8,0,0,0,0,0,1,0,0,0,3,National Park,Pacific West ,WA,737996,11657,7532,34943,15319,28152
+Olympic NP,2019-09,8,7,0,0,0,1,0,2,0,0,0,2,National Park,Pacific West ,WA,399907,10033,4750,21420,12946,8877
+Olympic NP,2019-10,6,5,0,0,0,0,0,2,0,0,0,2,National Park,Pacific West ,WA,182944,6599,1416,4299,2720,1772
+Olympic NP,2019-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,WA,108204,2888,0,1065,1237,495
+Petrified Forest NP,2014-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,95891,0,0,0,0,21
+Petrified Forest NP,2014-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,37863,0,0,0,0,11
+Petrified Forest NP,2014-12,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,AZ,35281,0,0,0,0,5
+Petrified Forest NP,2015-04,1,1,0,1,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,69468,0,0,0,0,48
+Petrified Forest NP,2015-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,120105,0,0,0,0,46
+Petrified Forest NP,2016-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,23269,0,0,0,0,34
+Petrified Forest NP,2016-03,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,49482,0,0,0,0,45
+Petrified Forest NP,2016-04,6,5,0,1,0,0,0,0,0,0,0,1,National Park,Intermountain ,AZ,54262,0,0,0,0,45
+Petrified Forest NP,2016-05,11,6,0,5,0,0,0,0,0,0,0,1,National Park,Intermountain ,AZ,59516,0,0,0,0,41
+Petrified Forest NP,2016-06,16,8,0,4,0,0,0,0,0,0,0,3,National Park,Intermountain ,AZ,95672,0,0,0,0,40
+Petrified Forest NP,2016-07,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,110214,0,0,0,0,124
+Petrified Forest NP,2016-08,25,12,0,0,0,0,0,0,0,0,0,3,National Park,Intermountain ,AZ,71512,0,0,0,0,35
+Petrified Forest NP,2016-09,4,4,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,53778,0,0,0,0,62
+Petrified Forest NP,2016-10,8,2,0,0,0,0,0,0,0,0,0,4,National Park,Intermountain ,AZ,51338,0,0,0,0,20
+Petrified Forest NP,2016-11,4,3,0,1,0,0,0,0,0,0,0,2,National Park,Intermountain ,AZ,30888,0,0,0,0,15
+Petrified Forest NP,2016-12,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,24567,0,0,0,0,10
+Petrified Forest NP,2017-01,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,24592,0,0,0,0,10
+Petrified Forest NP,2017-02,3,2,0,2,0,0,0,0,0,0,0,1,National Park,Intermountain ,AZ,21907,0,0,0,0,32
+Petrified Forest NP,2017-03,8,5,0,4,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,54971,0,0,0,0,212
+Petrified Forest NP,2017-04,3,3,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,AZ,49474,0,0,0,0,222
+Petrified Forest NP,2017-05,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,61584,0,0,0,0,199
+Petrified Forest NP,2017-06,6,5,0,1,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,82104,0,0,0,0,199
+Petrified Forest NP,2017-07,12,9,0,1,0,0,0,0,0,0,0,2,National Park,Intermountain ,AZ,81984,0,0,0,0,79
+Petrified Forest NP,2017-08,9,7,0,2,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,76121,0,0,0,0,120
+Petrified Forest NP,2017-09,5,4,0,1,0,0,0,0,0,0,0,2,National Park,Intermountain ,AZ,47260,0,0,0,0,80
+Petrified Forest NP,2017-10,9,8,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,65029,0,0,0,0,107
+Petrified Forest NP,2017-11,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,33237,0,0,0,0,63
+Petrified Forest NP,2018-01,3,3,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,AZ,25215,0,0,0,0,51
+Petrified Forest NP,2018-02,5,5,0,1,0,0,0,0,0,0,0,1,National Park,Intermountain ,AZ,27216,0,0,0,0,47
+Petrified Forest NP,2018-03,3,3,0,0,0,0,0,0,0,0,0,2,National Park,Intermountain ,AZ,54614,0,0,0,0,140
+Petrified Forest NP,2018-04,2,2,0,1,0,0,0,0,0,0,0,1,National Park,Intermountain ,AZ,49638,0,0,0,0,136
+Petrified Forest NP,2018-05,17,6,0,6,0,0,0,0,0,0,0,5,National Park,Intermountain ,AZ,73753,0,0,0,0,206
+Petrified Forest NP,2018-06,16,7,0,2,0,0,0,0,0,0,0,5,National Park,Intermountain ,AZ,104583,0,0,0,0,168
+Petrified Forest NP,2018-07,10,9,0,2,0,0,0,0,0,0,0,1,National Park,Intermountain ,AZ,81520,0,0,0,0,104
+Petrified Forest NP,2018-08,36,21,0,2,0,0,0,0,0,0,0,4,National Park,Intermountain ,AZ,64665,0,0,0,0,62
+Petrified Forest NP,2018-09,4,3,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,56831,0,0,0,0,42
+Petrified Forest NP,2018-12,5,5,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,AZ,24657,0,0,0,0,43
+Petrified Forest NP,2019-02,2,2,0,1,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,21342,0,0,0,0,7
+Petrified Forest NP,2019-03,4,3,0,2,0,0,0,1,0,0,0,0,National Park,Intermountain ,AZ,55187,0,0,0,0,148
+Petrified Forest NP,2019-04,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,56567,0,0,0,0,201
+Petrified Forest NP,2019-05,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,72802,0,0,0,0,260
+Petrified Forest NP,2019-06,1,1,0,1,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,95451,0,0,0,0,225
+Petrified Forest NP,2019-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,90546,0,0,0,0,180
+Petrified Forest NP,2019-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,52525,0,0,0,0,86
+Petrified Forest NP,2019-11,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,AZ,32092,0,0,0,0,45
+Petrified Forest NP,2019-12,4,3,0,0,0,0,0,0,0,0,0,2,National Park,Intermountain ,AZ,32440,0,0,0,0,51
+Pinnacles NP,2014-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,15335,0,0,0,0,0
+Pinnacles NP,2014-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,20755,0,0,0,0,0
+Pinnacles NP,2015-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,24192,0,0,0,0,0
+Pinnacles NP,2016-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,24605,0,0,0,0,0
+Pinnacles NP,2016-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,27035,0,0,0,0,0
+Pinnacles NP,2016-05,7,5,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,23360,0,0,0,0,0
+Pinnacles NP,2016-07,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,18818,0,0,0,0,0
+Pinnacles NP,2016-08,3,3,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,16784,0,0,0,0,0
+Pinnacles NP,2016-09,3,3,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,13419,0,0,0,0,0
+Pinnacles NP,2016-12,3,3,0,0,0,0,0,0,0,1,0,0,National Park,Pacific West ,CA,16259,0,0,0,0,0
+Pinnacles NP,2017-03,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,28618,0,0,0,0,0
+Pinnacles NP,2017-04,12,11,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,34773,0,0,0,0,0
+Pinnacles NP,2017-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,24776,0,0,0,0,0
+Pinnacles NP,2017-06,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,20556,0,0,0,0,0
+Pinnacles NP,2017-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,20705,0,0,0,0,0
+Pinnacles NP,2017-08,3,3,0,0,0,0,0,0,0,1,0,1,National Park,Pacific West ,CA,15826,0,0,0,0,0
+Pinnacles NP,2017-09,15,8,0,0,0,0,0,0,0,1,0,2,National Park,Pacific West ,CA,12781,0,0,0,0,0
+Pinnacles NP,2017-10,5,4,0,0,0,0,0,0,0,0,0,2,National Park,Pacific West ,CA,15829,0,0,0,0,0
+Pinnacles NP,2017-11,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,15473,0,0,0,0,0
+Pinnacles NP,2017-12,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,17825,0,0,0,0,0
+Pinnacles NP,2018-01,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,15909,0,0,0,0,0
+Pinnacles NP,2018-02,7,6,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,18793,0,0,0,0,0
+Pinnacles NP,2018-03,4,4,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,22351,0,0,0,0,0
+Pinnacles NP,2018-04,2,2,0,0,0,0,0,0,0,1,0,0,National Park,Pacific West ,CA,25902,0,0,0,0,0
+Pinnacles NP,2018-05,6,5,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,24843,0,0,0,0,0
+Pinnacles NP,2018-06,7,6,0,0,0,0,0,0,0,1,0,0,National Park,Pacific West ,CA,27164,0,0,0,0,0
+Pinnacles NP,2018-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,12797,0,0,0,0,0
+Pinnacles NP,2018-08,5,4,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,15122,0,0,0,0,0
+Pinnacles NP,2018-09,3,2,0,0,0,0,0,0,0,1,0,0,National Park,Pacific West ,CA,13192,0,0,0,0,0
+Pinnacles NP,2018-10,5,4,0,0,0,0,0,0,0,0,0,3,National Park,Pacific West ,CA,13799,0,0,0,0,0
+Pinnacles NP,2018-12,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,16429,0,0,0,0,0
+Pinnacles NP,2019-02,4,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,11735,0,0,0,0,0
+Pinnacles NP,2019-03,7,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,24681,0,0,0,0,0
+Pinnacles NP,2019-04,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,16234,0,0,0,0,0
+Pinnacles NP,2019-05,7,6,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,19398,0,0,0,0,0
+Pinnacles NP,2019-06,4,3,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,19061,0,0,0,0,0
+Pinnacles NP,2019-07,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,13016,0,0,0,0,0
+Pinnacles NP,2019-09,10,6,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,14165,0,0,0,0,0
+Pinnacles NP,2019-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,14084,0,0,0,0,0
+Pinnacles NP,2019-11,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,14786,0,0,0,0,0
+Pinnacles NP,2019-12,3,3,0,0,0,0,0,0,0,1,0,1,National Park,Pacific West ,CA,12115,0,0,0,0,0
+Redwood NP,2009-06,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,CA,63174,636,0,285,0,202
+Redwood NP,2011-05,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,CA,28613,0,0,191,0,43
+Redwood NP,2011-08,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,CA,54168,0,0,0,0,288
+Redwood NP,2011-12,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,CA,13921,0,0,0,0,22
+Redwood NP,2012-07,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,CA,58407,0,0,205,0,671
+Redwood NP,2015-02,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,CA,30275,0,0,99,0,37
+Redwood NP,2015-05,2,2,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West ,CA,46980,0,0,434,0,430
+Redwood NP,2015-09,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,CA,54037,0,0,433,0,507
+Redwood NP,2015-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,36714,0,0,236,0,257
+Redwood NP,2015-11,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,CA,31566,0,0,177,0,176
+Redwood NP,2016-03,2,1,0,0,0,0,0,0,0,2,0,0,National Park,Pacific West ,CA,38638,0,0,386,0,108
+Redwood NP,2016-09,2,2,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,CA,49344,0,0,572,0,546
+Redwood NP,2016-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,18915,0,0,209,0,62
+Redwood NP,2017-03,2,2,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,CA,19301,0,0,277,0,122
+Redwood NP,2017-04,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,CA,32127,0,0,213,0,106
+Redwood NP,2017-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,49170,0,0,322,0,465
+Redwood NP,2017-06,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,CA,59862,0,0,559,0,906
+Redwood NP,2017-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,68427,0,0,605,0,1284
+Redwood NP,2017-09,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,CA,43677,0,0,214,0,382
+Redwood NP,2017-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,31446,0,0,285,0,255
+Redwood NP,2017-11,2,1,0,0,0,0,0,2,0,0,0,0,National Park,Pacific West ,CA,21096,0,0,79,0,65
+Redwood NP,2017-12,5,4,0,0,0,0,0,3,0,0,0,0,National Park,Pacific West ,CA,27009,0,0,97,0,75
+Redwood NP,2018-03,2,2,0,0,0,0,0,2,0,0,0,0,National Park,Pacific West ,CA,24118,0,0,18,0,12
+Redwood NP,2018-04,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,CA,32580,0,0,248,0,230
+Redwood NP,2018-06,4,3,0,0,0,1,0,2,0,0,0,0,National Park,Pacific West ,CA,70581,0,0,513,0,654
+Redwood NP,2018-07,3,2,0,0,0,0,0,3,0,0,0,0,National Park,Pacific West ,CA,72787,0,0,574,0,1078
+Redwood NP,2018-08,3,1,0,0,0,0,0,3,0,0,0,0,National Park,Pacific West ,CA,57316,0,0,626,0,1027
+Redwood NP,2018-09,4,3,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West ,CA,51968,0,0,291,0,416
+Redwood NP,2018-10,3,3,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West ,CA,35275,0,0,880,0,112
+Redwood NP,2019-02,3,1,0,0,0,0,0,3,0,0,0,0,National Park,Pacific West ,CA,17768,0,0,41,0,20
+Redwood NP,2019-03,2,1,0,0,0,0,0,2,0,0,0,0,National Park,Pacific West ,CA,30938,0,0,213,0,66
+Redwood NP,2019-04,4,4,0,0,0,1,0,2,0,0,0,0,National Park,Pacific West ,CA,33179,0,0,121,0,118
+Redwood NP,2019-06,7,4,0,0,0,0,0,5,0,0,0,0,National Park,Pacific West ,CA,76137,0,0,497,0,487
+Redwood NP,2019-07,8,8,0,0,0,1,0,1,0,0,0,1,National Park,Pacific West ,CA,69750,0,0,474,0,941
+Redwood NP,2019-08,6,4,0,0,0,1,0,4,0,0,0,0,National Park,Pacific West ,CA,55227,0,0,416,0,667
+Redwood NP,2019-09,10,8,0,0,0,1,0,2,0,0,0,1,National Park,Pacific West ,CA,55568,0,0,216,0,405
+Redwood NP,2019-10,4,4,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,CA,42048,0,0,116,0,156
+Redwood NP,2019-12,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Pacific West ,CA,19752,0,0,50,0,34
+Rocky Mountain NP,2009-07,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,CO,626907,0,0,25827,10974,10945
+Rocky Mountain NP,2009-08,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,CO,568455,0,0,21045,9261,10005
+Rocky Mountain NP,2009-09,3,3,0,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,CO,443488,0,0,12291,10260,3961
+Rocky Mountain NP,2010-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,CO,668418,0,0,27129,11130,12452
+Rocky Mountain NP,2011-06,5,5,0,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,CO,500733,0,0,21768,11184,3841
+Rocky Mountain NP,2011-07,2,2,0,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,CO,743741,0,0,30792,13530,10720
+Rocky Mountain NP,2011-08,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,CO,620534,0,0,28212,12030,10257
+Rocky Mountain NP,2012-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,CO,228950,0,0,3543,1818,1686
+Rocky Mountain NP,2012-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,CO,500206,0,0,18210,7863,6069
+Rocky Mountain NP,2012-07,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,CO,651722,0,0,22761,8184,6071
+Rocky Mountain NP,2012-08,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,CO,589131,0,0,22233,8292,9646
+Rocky Mountain NP,2013-07,7,6,2,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,CO,712583,0,0,24144,9234,10782
+Rocky Mountain NP,2013-08,2,2,0,0,0,0,0,1,0,0,0,1,National Park,Intermountain ,CO,621852,0,0,23517,9189,9775
+Rocky Mountain NP,2014-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,CO,76881,0,0,18,51,130
+Rocky Mountain NP,2014-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,CO,538725,0,0,24207,10818,5731
+Rocky Mountain NP,2014-07,2,2,1,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,CO,693685,0,0,33303,12252,11488
+Rocky Mountain NP,2014-08,11,6,0,0,0,0,0,4,0,0,0,0,National Park,Intermountain ,CO,616826,0,0,29505,11559,10180
+Rocky Mountain NP,2014-09,6,6,0,0,0,0,0,1,0,0,0,1,National Park,Intermountain ,CO,537694,0,0,17517,9975,4155
+Rocky Mountain NP,2014-11,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,CO,90915,0,0,621,0,100
+Rocky Mountain NP,2015-04,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,CO,116959,0,0,1308,0,248
+Rocky Mountain NP,2015-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,CO,259711,0,0,5118,2856,1388
+Rocky Mountain NP,2015-06,10,7,1,0,0,0,0,4,0,0,0,0,National Park,Intermountain ,CO,608796,0,0,26655,12375,7152
+Rocky Mountain NP,2015-07,12,8,2,0,0,0,0,5,0,0,0,1,National Park,Intermountain ,CO,858426,0,0,34548,13335,14438
+Rocky Mountain NP,2015-08,4,4,1,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,CO,765579,0,0,33294,12834,13446
+Rocky Mountain NP,2015-09,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,CO,644350,0,0,18615,10710,6815
+Rocky Mountain NP,2015-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,CO,118398,0,0,327,246,150
+Rocky Mountain NP,2016-05,3,3,1,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,CO,285868,0,0,4350,2454,1790
+Rocky Mountain NP,2016-06,9,4,2,0,0,0,0,6,0,0,0,0,National Park,Intermountain ,CO,700990,0,0,25437,11037,8069
+Rocky Mountain NP,2016-07,14,9,1,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,CO,912507,0,0,34533,13191,15453
+Rocky Mountain NP,2016-08,20,9,1,0,0,1,0,5,0,0,0,1,National Park,Intermountain ,CO,772849,0,0,30228,15285,9719
+Rocky Mountain NP,2016-09,11,6,0,0,0,1,0,6,0,0,0,2,National Park,Intermountain ,CO,711110,0,0,21546,12210,7063
+Rocky Mountain NP,2016-10,5,5,1,0,0,0,0,1,0,0,0,1,National Park,Intermountain ,CO,398525,0,0,2268,1737,1816
+Rocky Mountain NP,2017-01,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,CO,95602,0,0,204,132,95
+Rocky Mountain NP,2017-04,6,4,1,0,0,0,0,3,0,0,0,0,National Park,Intermountain ,CO,158360,0,0,1248,843,325
+Rocky Mountain NP,2017-05,3,2,1,0,0,0,0,2,0,0,0,0,National Park,Intermountain ,CO,263222,0,0,7158,3378,1777
+Rocky Mountain NP,2017-06,27,8,6,0,0,0,0,13,0,0,0,1,National Park,Intermountain ,CO,741247,0,0,27714,13623,8330
+Rocky Mountain NP,2017-07,40,13,1,0,0,0,0,14,0,0,0,2,National Park,Intermountain ,CO,885478,0,0,33708,13332,14786
+Rocky Mountain NP,2017-08,18,8,3,0,0,0,0,4,0,0,0,1,National Park,Intermountain ,CO,782625,0,0,31401,13074,11498
+Rocky Mountain NP,2017-09,41,11,10,0,0,0,0,8,0,0,0,2,National Park,Intermountain ,CO,681160,0,0,20076,11508,6496
+Rocky Mountain NP,2017-10,2,2,1,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,CO,332526,0,0,1218,1032,1007
+Rocky Mountain NP,2017-11,3,3,0,0,0,0,0,1,0,0,0,1,National Park,Intermountain ,CO,140223,0,0,351,252,186
+Rocky Mountain NP,2017-12,2,1,0,0,0,0,0,0,0,0,0,2,National Park,Intermountain ,CO,112830,0,0,252,144,115
+Rocky Mountain NP,2018-01,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,CO,111422,0,0,195,135,99
+Rocky Mountain NP,2018-03,10,7,1,0,0,0,0,2,0,0,0,4,National Park,Intermountain ,CO,156434,0,0,549,318,275
+Rocky Mountain NP,2018-04,12,7,1,0,0,0,0,6,0,0,0,2,National Park,Intermountain ,CO,151975,0,0,603,471,271
+Rocky Mountain NP,2018-05,18,8,1,0,0,1,0,4,0,0,0,4,National Park,Intermountain ,CO,305993,0,0,7206,4674,1974
+Rocky Mountain NP,2018-06,24,13,2,0,0,1,0,9,0,0,0,2,National Park,Intermountain ,CO,720822,0,0,29595,13404,8877
+Rocky Mountain NP,2018-07,57,12,7,0,0,0,0,12,0,0,0,2,National Park,Intermountain ,CO,931929,0,0,31968,15276,14787
+Rocky Mountain NP,2018-08,29,10,2,0,0,1,0,10,0,0,0,2,National Park,Intermountain ,CO,798306,0,0,23136,22056,12177
+Rocky Mountain NP,2018-09,38,11,4,0,0,0,0,17,0,0,0,3,National Park,Intermountain ,CO,784480,0,0,20856,11727,7003
+Rocky Mountain NP,2018-10,4,3,0,0,0,0,0,2,0,0,0,1,National Park,Intermountain ,CO,312757,0,0,3213,2352,1100
+Rocky Mountain NP,2018-11,2,1,0,0,0,0,0,0,0,0,0,2,National Park,Intermountain ,CO,125349,0,0,339,339,117
+Rocky Mountain NP,2018-12,3,1,0,0,0,0,0,0,0,0,0,3,National Park,Intermountain ,CO,106781,0,0,168,99,36
+Rocky Mountain NP,2019-02,3,3,0,0,0,0,0,2,0,0,0,1,National Park,Intermountain ,CO,99873,0,0,144,99,0
+Rocky Mountain NP,2019-03,3,2,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,CO,146414,0,0,465,150,134
+Rocky Mountain NP,2019-04,7,4,1,0,0,0,0,3,0,0,0,2,National Park,Intermountain ,CO,160259,0,0,1134,918,171
+Rocky Mountain NP,2019-05,15,10,3,0,0,0,0,5,0,0,0,1,National Park,Intermountain ,CO,280351,0,0,6570,3735,1068
+Rocky Mountain NP,2019-06,67,13,18,0,0,1,0,19,0,0,0,2,National Park,Intermountain ,CO,698224,0,0,12912,18225,6307
+Rocky Mountain NP,2019-07,138,22,13,0,0,1,0,27,0,0,0,5,National Park,Intermountain ,CO,973992,0,0,34785,12660,13934
+Rocky Mountain NP,2019-08,52,14,3,0,0,0,0,12,0,0,0,2,National Park,Intermountain ,CO,830039,0,0,30726,13026,11653
+Rocky Mountain NP,2019-09,46,14,3,0,0,0,0,11,0,0,0,7,National Park,Intermountain ,CO,752320,0,0,20634,12162,6706
+Rocky Mountain NP,2019-10,8,3,1,0,0,0,0,4,0,0,0,0,National Park,Intermountain ,CO,374003,0,0,4770,3312,1055
+Rocky Mountain NP,2019-11,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,CO,123376,0,0,387,270,101
+Rocky Mountain NP,2019-12,5,3,0,0,0,0,0,4,0,0,0,0,National Park,Intermountain ,CO,113050,0,0,252,240,82
+Saguaro NP,2014-01,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,77883,0,0,0,0,82
+Saguaro NP,2014-11,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,59958,0,0,0,0,106
+Saguaro NP,2015-01,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,82743,0,0,0,0,129
+Saguaro NP,2015-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,55800,0,0,0,0,154
+Saguaro NP,2015-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,34434,0,0,0,0,55
+Saguaro NP,2015-07,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,41292,0,0,0,0,22
+Saguaro NP,2015-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,37614,0,0,0,0,25
+Saguaro NP,2015-09,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,AZ,37218,0,0,0,0,120
+Saguaro NP,2016-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,103376,0,0,0,0,206
+Saguaro NP,2016-05,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Intermountain ,AZ,57396,0,0,0,0,137
+Saguaro NP,2016-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,37587,0,0,0,0,26
+Saguaro NP,2017-03,2,2,0,0,0,0,0,0,0,0,1,0,National Park,Intermountain ,AZ,139654,0,0,0,0,702
+Saguaro NP,2017-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,99335,0,0,0,0,479
+Saguaro NP,2017-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,45316,0,0,0,0,23
+Saguaro NP,2017-07,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,AZ,51672,0,0,0,0,7
+Saguaro NP,2017-08,21,12,0,0,0,2,0,0,0,0,8,0,National Park,Intermountain ,AZ,56232,0,0,0,0,51
+Saguaro NP,2017-09,4,3,0,0,0,0,0,0,0,0,1,0,National Park,Intermountain ,AZ,43075,0,0,0,0,128
+Saguaro NP,2017-10,5,5,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,59768,0,0,0,0,166
+Saguaro NP,2017-11,4,3,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,81806,0,0,0,0,116
+Saguaro NP,2017-12,19,7,0,0,0,0,0,0,0,0,8,0,National Park,Intermountain ,AZ,89984,0,0,0,0,111
+Saguaro NP,2018-01,5,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,104478,0,0,0,0,132
+Saguaro NP,2018-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,152999,0,0,0,0,637
+Saguaro NP,2018-06,3,3,0,0,0,0,0,0,0,0,1,0,National Park,Intermountain ,AZ,42723,0,0,0,0,53
+Saguaro NP,2018-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,49881,0,0,0,0,16
+Saguaro NP,2018-08,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,49400,0,0,0,0,48
+Saguaro NP,2018-09,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,43637,0,0,0,0,51
+Saguaro NP,2019-02,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,149371,0,0,0,0,209
+Saguaro NP,2019-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,186275,0,0,0,0,719
+Saguaro NP,2019-04,4,4,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,117802,0,0,0,0,447
+Saguaro NP,2019-05,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,75838,0,0,0,0,164
+Saguaro NP,2019-06,3,3,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,AZ,49481,0,0,0,0,26
+Saguaro NP,2019-07,4,4,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,48553,0,0,0,0,19
+Saguaro NP,2019-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,51309,0,0,0,0,16
+Saguaro NP,2019-09,2,2,0,0,0,1,0,0,0,0,0,0,National Park,Intermountain ,AZ,44812,0,0,0,0,45
+Saguaro NP,2019-10,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Intermountain ,AZ,64529,0,0,0,0,128
+Saguaro NP,2019-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,87053,0,0,0,0,212
+Saguaro NP,2019-12,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,AZ,96235,0,0,0,0,134
+Sequoia and Kings Canyon NP,2009-06,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West,CA,191706,14446,0,30795,10964,5296
+Sequoia and Kings Canyon NP,2010-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West,CA,79288,5363,0,2627,836,405
+Sequoia and Kings Canyon NP,2010-07,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West,CA,313572,15710,0,63390,19856,9300
+Sequoia and Kings Canyon NP,2010-08,3,3,0,0,0,1,0,0,0,0,0,1,National Park,Pacific West,CA,270000,15242,0,59762,19408,13298
+Sequoia and Kings Canyon NP,2011-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West,CA,279379,15822,0,54636,13773,12620
+Sequoia and Kings Canyon NP,2012-08,8,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West,CA,352320,4253,0,55218,14176,11839
+Sequoia and Kings Canyon NP,2013-07,2,2,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West,CA,272084,18083,0,55930,16094,9311
+Sequoia and Kings Canyon NP,2013-08,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West,CA,257633,17578,0,52648,12008,14052
+Sequoia and Kings Canyon NP,2014-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West,CA,62516,6250,0,2929,932,770
+Sequoia and Kings Canyon NP,2014-04,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West,CA,94630,8968,0,5044,2048,1095
+Sequoia and Kings Canyon NP,2014-07,4,3,0,0,0,2,0,0,0,0,0,0,National Park,Pacific West,CA,267431,16380,0,54941,15830,10901
+Sequoia and Kings Canyon NP,2014-08,3,2,0,0,0,2,0,0,0,0,0,0,National Park,Pacific West,CA,264633,16737,0,54292,12100,14173
+Sequoia and Kings Canyon NP,2014-10,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West,CA,114454,10810,0,10125,3358,1564
+Sequoia and Kings Canyon NP,2015-05,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West,CA,169788,9523,0,15751,13016,2888
+Sequoia and Kings Canyon NP,2015-06,4,3,0,0,0,1,0,0,0,0,0,2,National Park,Pacific West,CA,211256,17821,0,33171,12058,11075
+Sequoia and Kings Canyon NP,2015-08,3,3,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West,CA,243230,15668,0,47156,9111,10266
+Sequoia and Kings Canyon NP,2016-02,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West,CA,48086,4530,0,827,179,475
+Sequoia and Kings Canyon NP,2016-03,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West,CA,76269,8400,0,3870,1307,558
+Sequoia and Kings Canyon NP,2016-05,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West,CA,187412,9723,0,17092,7695,3224
+Sequoia and Kings Canyon NP,2016-06,7,7,0,0,0,1,0,0,0,0,0,1,National Park,Pacific West,CA,245011,16059,0,48266,15064,9985
+Sequoia and Kings Canyon NP,2016-07,12,8,0,0,0,0,0,0,0,0,0,4,National Park,Pacific West,CA,342385,15376,0,75786,19640,9981
+Sequoia and Kings Canyon NP,2016-08,12,6,0,0,0,1,0,0,0,0,0,6,National Park,Pacific West,CA,283259,15084,0,63072,30623,13765
+Sequoia and Kings Canyon NP,2016-09,14,9,0,0,0,1,0,0,0,0,0,3,National Park,Pacific West,CA,232105,9695,0,33184,17671,6893
+Sequoia and Kings Canyon NP,2016-10,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West,CA,144564,8028,0,7880,5832,1794
+Sequoia and Kings Canyon NP,2016-12,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West,CA,59806,7702,0,1243,515,318
+Sequoia and Kings Canyon NP,2017-02,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West,CA,38624,3690,0,808,315,385
+Sequoia and Kings Canyon NP,2017-04,2,2,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West,CA,131346,9441,0,5422,2777,1190
+Sequoia and Kings Canyon NP,2017-05,2,2,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West,CA,207148,5284,0,15086,6515,2589
+Sequoia and Kings Canyon NP,2017-06,7,4,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West,CA,271617,18426,0,48533,15286,10774
+Sequoia and Kings Canyon NP,2017-07,21,9,0,0,0,2,0,0,0,0,0,7,National Park,Pacific West,CA,367476,16309,0,76809,19608,16089
+Sequoia and Kings Canyon NP,2017-08,6,4,0,0,0,1,0,0,0,0,0,1,National Park,Pacific West,CA,302867,16162,0,63397,16838,21278
+Sequoia and Kings Canyon NP,2017-09,22,11,0,0,0,7,0,0,0,0,0,5,National Park,Pacific West,CA,232569,16352,0,34850,22193,6881
+Sequoia and Kings Canyon NP,2017-10,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West,CA,143264,11567,0,10424,8023,1398
+Sequoia and Kings Canyon NP,2017-11,3,2,0,0,0,0,0,0,0,0,0,2,National Park,Pacific West,CA,88288,8317,0,3527,1272,590
+Sequoia and Kings Canyon NP,2018-01,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West,CA,59353,4182,0,1263,553,0
+Sequoia and Kings Canyon NP,2018-02,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West,CA,56432,4292,0,1192,550,493
+Sequoia and Kings Canyon NP,2018-03,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West,CA,85835,7198,0,1861,706,395
+Sequoia and Kings Canyon NP,2018-04,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West,CA,122862,9070,0,5266,3110,387
+Sequoia and Kings Canyon NP,2018-05,7,7,0,0,0,2,0,0,0,0,0,1,National Park,Pacific West,CA,205837,11826,0,19550,10116,2938
+Sequoia and Kings Canyon NP,2018-06,17,10,0,0,0,2,0,0,0,0,0,7,National Park,Pacific West,CA,249624,19229,0,44876,16072,10774
+Sequoia and Kings Canyon NP,2018-07,17,9,0,0,0,2,0,0,0,0,0,2,National Park,Pacific West,CA,316423,17198,0,74692,21761,11906
+Sequoia and Kings Canyon NP,2018-08,18,8,0,0,0,0,0,0,0,0,0,7,National Park,Pacific West,CA,299687,16997,0,63502,32077,26025
+Sequoia and Kings Canyon NP,2018-09,23,11,0,0,0,3,0,0,0,0,0,7,National Park,Pacific West,CA,222572,16308,0,32897,23245,6614
+Sequoia and Kings Canyon NP,2018-10,7,6,0,0,0,1,0,0,0,0,0,1,National Park,Pacific West,CA,137407,11707,0,9285,8383,1829
+Sequoia and Kings Canyon NP,2018-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West,CA,83850,8400,0,3065,1946,396
+Sequoia and Kings Canyon NP,2018-12,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West,CA,88735,6247,0,417,67,0
+Sequoia and Kings Canyon NP,2019-02,2,2,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West,CA,37964,2767,0,321,404,125
+Sequoia and Kings Canyon NP,2019-03,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West,CA,85410,7116,0,1841,1189,258
+Sequoia and Kings Canyon NP,2019-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West,CA,134210,10826,0,3902,1384,908
+Sequoia and Kings Canyon NP,2019-05,4,4,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West,CA,177161,10401,0,16844,2837,1986
+Sequoia and Kings Canyon NP,2019-06,25,7,0,0,0,2,0,0,0,0,0,9,National Park,Pacific West,CA,244494,18260,0,30941,10176,5760
+Sequoia and Kings Canyon NP,2019-07,23,10,0,0,0,5,0,0,0,0,0,4,National Park,Pacific West,CA,296073,16662,0,70602,19074,9752
+Sequoia and Kings Canyon NP,2019-08,18,9,0,0,0,7,0,0,0,0,0,4,National Park,Pacific West,CA,303148,16707,0,66589,30687,17628
+Sequoia and Kings Canyon NP,2019-09,10,7,0,0,0,3,0,0,0,0,0,3,National Park,Pacific West,CA,225845,16022,0,31107,23115,6858
+Sequoia and Kings Canyon NP,2019-10,3,1,0,0,0,3,0,0,0,0,0,0,National Park,Pacific West,CA,173305,11819,0,10383,9479,2023
+Sequoia and Kings Canyon NP,2019-11,5,3,0,0,0,3,0,0,0,0,0,2,National Park,Pacific West,CA,84941,8052,0,3088,1969,100
+Sequoia and Kings Canyon NP,2019-12,2,2,0,0,0,0,0,0,0,0,0,2,National Park,Pacific West,CA,59293,5969,0,763,560,33
+Shenandoah NP,2009-07,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Northeast ,VA,163916,16281,0,20325,8109,4954
+Shenandoah NP,2012-06,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Northeast ,VA,142242,13823,0,17979,6951,8134
+Shenandoah NP,2013-04,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Northeast ,VA,101796,6111,0,1032,336,3504
+Shenandoah NP,2013-08,2,2,0,0,0,0,0,0,0,0,1,0,National Park,Northeast ,VA,168796,14165,0,20343,6813,3959
+Shenandoah NP,2014-05,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Northeast ,VA,141445,9606,0,15030,6465,8906
+Shenandoah NP,2014-06,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Northeast ,VA,142300,15078,0,17493,7224,10555
+Shenandoah NP,2015-07,2,2,0,0,0,1,0,0,0,0,1,0,National Park,Northeast ,VA,169303,15119,0,22215,7554,5142
+Shenandoah NP,2015-10,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Northeast ,VA,257854,14462,0,14574,8895,5640
+Shenandoah NP,2016-04,3,2,0,0,0,2,0,0,0,0,1,0,National Park,Northeast ,VA,93020,7065,0,5025,1848,3685
+Shenandoah NP,2016-05,4,2,0,0,0,3,0,0,0,0,1,0,National Park,Northeast ,VA,137816,11436,0,15207,5001,7772
+Shenandoah NP,2016-06,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Northeast ,VA,158017,17422,0,20025,7644,9242
+Shenandoah NP,2016-07,2,1,0,0,0,2,0,0,0,0,0,0,National Park,Northeast ,VA,195953,15687,0,25071,8235,7738
+Shenandoah NP,2016-08,9,4,0,0,0,6,0,0,0,0,1,0,National Park,Northeast ,VA,176133,16283,0,22533,7533,5019
+Shenandoah NP,2016-09,2,2,0,0,0,1,0,0,0,0,0,0,National Park,Northeast ,VA,147462,15950,0,17886,8277,4899
+Shenandoah NP,2016-10,2,2,0,0,0,1,0,0,0,0,1,0,National Park,Northeast ,VA,263082,16268,0,19350,11139,5909
+Shenandoah NP,2016-12,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Northeast ,VA,29597,286,0,0,0,116
+Shenandoah NP,2017-04,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Northeast ,VA,122666,10461,0,8793,3453,5890
+Shenandoah NP,2017-05,3,3,0,0,0,2,0,0,0,0,1,0,National Park,Northeast ,VA,136232,12047,0,13017,5883,10959
+Shenandoah NP,2017-06,10,6,0,0,0,1,0,0,0,0,4,0,National Park,Northeast ,VA,163193,18618,0,18474,7809,13336
+Shenandoah NP,2017-07,6,3,0,0,0,4,0,0,0,1,1,0,National Park,Northeast ,VA,199031,15854,0,19206,6744,7759
+Shenandoah NP,2017-08,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Northeast ,VA,187626,16289,0,18591,7029,4892
+Shenandoah NP,2017-09,2,2,0,0,0,1,0,0,0,0,1,0,National Park,Northeast ,VA,156788,14951,0,18153,7824,5727
+Shenandoah NP,2017-10,2,2,0,0,0,1,0,0,0,0,1,0,National Park,Northeast ,VA,244484,15772,0,16344,11358,5624
+Shenandoah NP,2017-11,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Northeast ,VA,114778,250,0,1983,1278,1663
+Shenandoah NP,2018-02,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Northeast ,VA,19335,152,0,0,0,314
+Shenandoah NP,2018-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Northeast ,VA,46587,280,0,1092,351,1269
+Shenandoah NP,2018-04,1,1,0,0,0,0,0,0,0,0,1,0,National Park,Northeast ,VA,83868,7538,0,5340,2643,2821
+Shenandoah NP,2018-05,3,2,0,0,0,2,0,0,0,0,1,0,National Park,Northeast ,VA,132856,11556,0,14661,7125,8844
+Shenandoah NP,2018-06,3,3,0,0,0,1,0,0,0,0,1,0,National Park,Northeast ,VA,149418,18001,0,19104,8448,12064
+Shenandoah NP,2018-07,11,3,0,0,0,3,0,0,0,0,5,0,National Park,Northeast ,VA,178769,16690,0,21228,7857,2336
+Shenandoah NP,2018-08,4,2,0,0,0,3,0,0,0,0,0,0,National Park,Northeast ,VA,175955,17204,0,20694,7938,1686
+Shenandoah NP,2018-09,3,2,0,0,0,2,0,0,0,0,1,0,National Park,Northeast ,VA,109786,13142,0,11157,5319,3825
+Shenandoah NP,2018-10,2,2,0,0,0,1,0,0,0,0,1,0,National Park,Northeast ,VA,202362,15811,0,15036,11448,5180
+Shenandoah NP,2018-11,6,3,0,0,0,4,0,0,0,0,1,0,National Park,Northeast ,VA,119320,7752,0,1944,1302,1272
+Shenandoah NP,2018-12,3,2,0,0,0,1,0,0,0,0,2,0,National Park,Northeast ,VA,22826,335,0,0,0,120
+Shenandoah NP,2019-01,2,2,0,0,0,0,0,0,0,0,1,0,National Park,Northeast ,VA,20245,179,0,0,0,59
+Shenandoah NP,2019-04,3,2,0,0,0,1,0,0,0,0,2,0,National Park,Northeast ,VA,102672,3285,0,5328,2907,2129
+Shenandoah NP,2019-05,5,3,0,0,0,3,0,0,0,0,1,0,National Park,Northeast ,VA,150297,12487,0,14373,7365,4572
+Shenandoah NP,2019-06,8,5,0,0,0,3,0,0,0,0,2,0,National Park,Northeast ,VA,170492,11904,0,20916,9564,3367
+Shenandoah NP,2019-07,9,3,0,0,0,5,0,0,0,0,3,0,National Park,Northeast ,VA,167335,13357,0,20550,8454,6033
+Shenandoah NP,2019-08,8,5,0,0,0,3,0,0,0,0,2,0,National Park,Northeast ,VA,195579,13658,0,22545,8040,4428
+Shenandoah NP,2019-09,4,3,0,0,0,0,0,0,0,0,2,0,National Park,Northeast ,VA,176271,15819,0,17175,9498,4026
+Shenandoah NP,2019-10,3,2,0,0,0,1,0,0,0,0,2,0,National Park,Northeast ,VA,236554,15708,0,16206,12465,4788
+Shenandoah NP,2019-11,3,1,0,0,0,3,0,0,0,0,0,0,National Park,Northeast ,VA,127014,8152,0,1770,1293,1510
+Shenandoah NP,2019-12,3,2,0,0,0,0,0,0,0,0,2,0,National Park,Northeast ,VA,30183,281,0,0,0,159
+Theodore Roosevelt NP,2012-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,ND,120737,0,0,3124,2422,131
+Theodore Roosevelt NP,2013-07,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,ND,131384,0,0,3699,3070,177
+Theodore Roosevelt NP,2014-05,2,2,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,ND,58639,0,0,786,829,261
+Theodore Roosevelt NP,2014-09,3,2,0,0,2,0,0,0,0,0,0,0,National Park,Midwest ,ND,77436,0,0,2630,2757,81
+Theodore Roosevelt NP,2015-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,ND,99939,0,0,3186,2859,33
+Theodore Roosevelt NP,2016-05,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,ND,71977,0,0,1498,1555,28
+Theodore Roosevelt NP,2016-06,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,ND,122044,0,0,3148,3785,28
+Theodore Roosevelt NP,2016-07,3,2,0,0,2,0,0,0,0,0,0,0,National Park,Midwest ,ND,162933,0,0,3178,3880,35
+Theodore Roosevelt NP,2016-08,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,ND,160125,0,0,3842,3750,43
+Theodore Roosevelt NP,2017-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,ND,22137,0,0,319,275,20
+Theodore Roosevelt NP,2017-06,4,3,0,0,2,0,0,0,0,0,0,0,National Park,Midwest ,ND,109297,0,0,3359,4058,76
+Theodore Roosevelt NP,2017-08,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,ND,160360,0,0,3505,3896,97
+Theodore Roosevelt NP,2018-05,8,6,0,1,1,0,0,0,0,0,0,1,National Park,Midwest ,ND,83865,0,0,1828,2576,47
+Theodore Roosevelt NP,2018-06,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,ND,132489,0,0,3758,4115,131
+Theodore Roosevelt NP,2018-07,5,3,0,0,3,0,0,0,0,0,0,0,National Park,Midwest ,ND,176271,0,0,3078,3281,151
+Theodore Roosevelt NP,2018-08,3,1,0,0,3,0,0,0,0,0,0,0,National Park,Midwest ,ND,138851,0,0,3494,4304,151
+Theodore Roosevelt NP,2018-09,3,3,0,1,1,0,0,0,0,0,0,0,National Park,Midwest ,ND,103766,0,0,2130,3351,81
+Theodore Roosevelt NP,2018-10,3,2,0,0,0,0,0,0,0,0,0,1,National Park,Midwest ,ND,62543,0,0,310,513,11
+Theodore Roosevelt NP,2018-12,12,8,0,0,3,0,0,0,0,0,0,0,National Park,Midwest ,ND,4174,0,0,3,3,0
+Theodore Roosevelt NP,2019-05,14,5,0,1,7,0,0,0,0,0,0,0,National Park,Midwest ,ND,75682,0,0,1893,2133,114
+Theodore Roosevelt NP,2019-06,11,5,0,0,6,0,0,0,0,0,0,1,National Park,Midwest ,ND,134590,0,0,3475,4163,155
+Theodore Roosevelt NP,2019-07,15,7,0,1,1,0,0,0,0,0,0,0,National Park,Midwest ,ND,149425,0,0,3769,4722,134
+Theodore Roosevelt NP,2019-08,25,12,0,1,9,0,0,0,0,0,0,1,National Park,Midwest ,ND,135584,0,0,3305,5184,189
+Theodore Roosevelt NP,2019-09,6,3,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,ND,110576,0,0,3815,3488,104
+Theodore Roosevelt NP,2019-10,8,4,0,0,4,0,0,0,0,0,0,1,National Park,Midwest ,ND,46043,0,0,359,483,11
+Wind Cave NP,2011-06,1,1,0,1,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,77861,0,0,369,264,59
+Wind Cave NP,2013-07,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,70989,0,0,1562,888,66
+Wind Cave NP,2013-09,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,71250,0,0,1005,1350,28
+Wind Cave NP,2014-07,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,119654,0,0,1100,1048,50
+Wind Cave NP,2015-05,2,2,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,69312,0,0,292,272,26
+Wind Cave NP,2016-02,4,4,0,0,0,0,0,0,0,0,0,1,National Park,Midwest ,SD,13785,0,0,1,7,2
+Wind Cave NP,2016-05,2,2,0,1,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,51752,0,0,318,361,146
+Wind Cave NP,2016-06,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,114636,0,0,964,846,93
+Wind Cave NP,2016-07,2,2,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,124710,0,0,1296,791,91
+Wind Cave NP,2016-09,4,3,0,1,2,0,0,0,0,0,0,0,National Park,Midwest ,SD,78141,0,0,294,1179,68
+Wind Cave NP,2017-02,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,15543,0,0,6,10,0
+Wind Cave NP,2017-05,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,46204,0,0,393,226,45
+Wind Cave NP,2017-06,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,116823,0,0,1298,1120,141
+Wind Cave NP,2017-07,3,3,0,1,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,128984,0,0,2308,1031,47
+Wind Cave NP,2017-08,5,3,0,1,2,0,0,0,0,0,0,0,National Park,Midwest ,SD,103518,0,0,1389,1068,124
+Wind Cave NP,2018-05,2,2,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,46204,0,0,451,452,61
+Wind Cave NP,2018-06,2,2,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,116823,0,0,634,556,82
+Wind Cave NP,2018-07,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Midwest ,SD,136829,0,0,1418,1058,112
+Wind Cave NP,2018-08,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,128984,0,0,1107,797,102
+Wind Cave NP,2018-11,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Midwest ,SD,15670,0,0,11,25,3
+Wind Cave NP,2019-06,11,3,0,2,7,0,0,0,0,0,0,0,National Park,Midwest ,SD,125106,0,0,1069,1011,183
+Wind Cave NP,2019-07,5,4,0,1,2,0,0,0,0,0,0,0,National Park,Midwest ,SD,146531,0,0,993,774,64
+Wind Cave NP,2019-08,4,4,0,1,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,92237,0,0,728,276,16
+Wind Cave NP,2019-09,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Midwest ,SD,55196,0,0,388,790,67
+Yellowstone NP,2008-01,2,1,0,0,2,0,0,0,0,0,0,0,National Park,Intermountain ,WY,26864,9317,0,38,51,102
+Yellowstone NP,2008-02,1,1,0,0,0,0,0,0,1,0,0,0,National Park,Intermountain ,WY,33557,10919,0,70,131,180
+Yellowstone NP,2008-04,6,2,0,0,3,0,0,0,0,0,0,0,National Park,Intermountain ,WY,24433,0,0,301,355,187
+Yellowstone NP,2008-05,9,2,0,0,0,0,6,0,3,0,0,0,National Park,Intermountain ,WY,217938,44852,19882,3754,4061,761
+Yellowstone NP,2008-06,19,8,0,0,8,0,4,0,1,0,0,0,National Park,Intermountain ,WY,593405,118825,95929,13792,10896,4069
+Yellowstone NP,2008-07,8,4,0,0,4,0,1,0,0,0,0,0,National Park,Intermountain ,WY,808110,136821,144567,23158,13194,13146
+Yellowstone NP,2008-08,8,2,0,0,7,0,0,0,1,0,0,0,National Park,Intermountain ,WY,731063,135275,120805,22410,12045,13639
+Yellowstone NP,2008-09,3,1,0,0,3,0,0,0,0,0,0,0,National Park,Intermountain ,WY,437552,95559,47056,12506,14083,5972
+Yellowstone NP,2008-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,145488,13045,5878,1693,2765,995
+Yellowstone NP,2009-05,4,2,0,0,0,0,3,0,0,0,0,0,National Park,Intermountain ,WY,261763,34137,21049,3171,2163,733
+Yellowstone NP,2009-06,17,12,0,0,4,1,4,1,2,0,0,1,National Park,Intermountain ,WY,643844,119696,94566,14701,13229,4076
+Yellowstone NP,2009-07,3,3,1,0,1,0,1,0,0,0,0,0,National Park,Intermountain ,WY,900515,139691,166379,25680,15635,12381
+Yellowstone NP,2009-08,10,2,0,0,10,0,0,0,0,0,0,0,National Park,Intermountain ,WY,752983,137914,146534,23325,13523,13981
+Yellowstone NP,2009-09,8,2,0,0,7,0,0,0,1,0,0,0,National Park,Intermountain ,WY,489438,98539,77828,14198,16755,6811
+Yellowstone NP,2009-10,1,1,0,0,0,0,0,1,0,0,0,0,National Park,Intermountain ,WY,123867,12215,3021,1414,1898,773
+Yellowstone NP,2009-11,1,1,0,0,0,0,0,0,1,0,0,0,National Park,Intermountain ,WY,9397,0,0,138,253,414
+Yellowstone NP,2010-01,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Intermountain ,WY,25595,7485,0,99,118,97
+Yellowstone NP,2010-05,6,4,0,0,3,0,1,0,0,0,0,0,National Park,Intermountain ,WY,250445,26511,17174,4416,5709,808
+Yellowstone NP,2010-06,21,7,0,0,6,0,10,0,2,0,0,0,National Park,Intermountain ,WY,694841,129516,104680,15027,13696,4324
+Yellowstone NP,2010-07,14,6,0,0,4,0,7,0,1,0,0,0,National Park,Intermountain ,WY,957785,128343,162261,26214,15485,15482
+Yellowstone NP,2010-08,14,8,0,0,5,0,3,1,1,0,0,1,National Park,Intermountain ,WY,854837,128828,144802,24275,13245,14948
+Yellowstone NP,2010-09,5,3,0,0,3,0,0,0,1,0,0,0,National Park,Intermountain ,WY,550504,127564,73249,13280,15597,7344
+Yellowstone NP,2011-03,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Intermountain ,WY,18728,1617,0,112,182,138
+Yellowstone NP,2011-05,7,4,0,0,3,0,2,0,1,0,0,0,National Park,Intermountain ,WY,207842,26558,12037,2874,4381,580
+Yellowstone NP,2011-06,24,5,0,0,18,0,2,1,2,0,0,0,National Park,Intermountain ,WY,634316,133143,92947,10922,9053,3228
+Yellowstone NP,2011-07,11,3,0,0,9,0,0,0,1,0,0,0,National Park,Intermountain ,WY,906935,133835,163147,24909,14346,11107
+Yellowstone NP,2011-08,21,3,0,0,18,0,2,0,1,0,0,0,National Park,Intermountain ,WY,805173,130668,145482,24922,13034,13875
+Yellowstone NP,2011-09,7,6,1,1,2,0,0,1,1,0,0,0,National Park,Intermountain ,WY,536349,133167,77563,13462,14803,6488
+Yellowstone NP,2011-10,8,4,0,0,5,0,1,0,1,0,0,0,National Park,Intermountain ,WY,175433,18673,6861,1571,3229,887
+Yellowstone NP,2011-12,3,2,0,0,0,0,0,0,2,0,0,0,National Park,Intermountain ,WY,16514,4211,0,54,58,76
+Yellowstone NP,2012-01,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,24766,8819,0,32,109,69
+Yellowstone NP,2012-05,24,13,0,1,3,3,4,1,1,0,0,0,National Park,Intermountain ,WY,268251,24581,18584,4637,5242,836
+Yellowstone NP,2012-06,17,9,0,0,7,2,3,2,1,0,0,0,National Park,Intermountain ,WY,671825,137021,114622,16723,13725,4348
+Yellowstone NP,2012-07,29,10,0,0,11,2,3,2,9,0,0,0,National Park,Intermountain ,WY,888335,130356,164885,27469,14118,12610
+Yellowstone NP,2012-08,14,7,0,0,9,1,1,1,2,0,0,0,National Park,Intermountain ,WY,780286,130114,147648,25478,13242,14149
+Yellowstone NP,2012-09,8,3,0,0,6,0,1,0,1,0,0,0,National Park,Intermountain ,WY,527610,139040,78791,11539,13210,6663
+Yellowstone NP,2013-02,3,3,0,1,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,31053,10375,0,58,118,214
+Yellowstone NP,2013-03,1,1,0,0,0,0,0,0,1,0,0,0,National Park,Intermountain ,WY,18613,4050,0,170,262,350
+Yellowstone NP,2013-04,1,1,0,0,0,0,1,0,0,0,0,0,National Park,Intermountain ,WY,24606,0,0,448,698,59
+Yellowstone NP,2013-05,14,8,1,0,5,1,1,3,0,0,0,0,National Park,Intermountain ,WY,293250,24229,22862,4298,5990,820
+Yellowstone NP,2013-06,14,6,0,1,7,0,4,0,0,0,0,0,National Park,Intermountain ,WY,624429,134777,120024,16403,12742,5052
+Yellowstone NP,2013-07,13,7,1,1,6,1,2,0,0,0,0,0,National Park,Intermountain ,WY,812212,129011,163096,27776,13827,13170
+Yellowstone NP,2013-08,27,13,2,1,14,1,2,1,1,0,0,1,National Park,Intermountain ,WY,725136,129827,151418,25741,12989,13768
+Yellowstone NP,2013-09,19,8,0,2,11,0,2,3,0,0,0,0,National Park,Intermountain ,WY,557925,139933,75181,12931,15958,6263
+Yellowstone NP,2013-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,47560,11928,314,685,858,402
+Yellowstone NP,2013-11,5,4,0,0,2,0,1,1,0,0,0,1,National Park,Intermountain ,WY,11169,0,0,134,189,410
+Yellowstone NP,2013-12,2,1,0,0,2,0,0,0,0,0,0,0,National Park,Intermountain ,WY,17378,2476,0,54,64,52
+Yellowstone NP,2014-01,1,1,0,0,0,0,0,0,1,0,0,0,National Park,Intermountain ,WY,26778,10616,0,42,170,79
+Yellowstone NP,2014-02,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Intermountain ,WY,28233,10867,0,32,70,101
+Yellowstone NP,2014-03,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Intermountain ,WY,18778,3820,0,147,189,257
+Yellowstone NP,2014-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,WY,31356,0,0,566,1104,103
+Yellowstone NP,2014-05,31,10,0,0,13,0,10,0,2,0,0,0,National Park,Intermountain ,WY,310039,23858,25198,4294,5405,1091
+Yellowstone NP,2014-06,29,8,0,0,19,1,6,0,1,0,0,0,National Park,Intermountain ,WY,669642,116705,115742,15702,13043,4708
+Yellowstone NP,2014-07,29,12,0,1,15,2,4,1,2,0,0,0,National Park,Intermountain ,WY,858856,113801,162564,27123,24973,14228
+Yellowstone NP,2014-08,15,5,0,0,9,0,0,3,0,0,0,0,National Park,Intermountain ,WY,773357,114125,152059,23434,12429,13000
+Yellowstone NP,2014-09,20,5,0,0,14,0,2,0,2,0,0,0,National Park,Intermountain ,WY,571764,128827,74615,11952,15021,5862
+Yellowstone NP,2014-10,9,5,0,0,5,1,2,0,1,0,0,0,National Park,Intermountain ,WY,194804,32383,9283,2736,4608,1335
+Yellowstone NP,2014-11,2,2,0,0,0,1,0,0,0,0,0,1,National Park,Intermountain ,WY,11537,0,0,160,214,400
+Yellowstone NP,2014-12,7,5,1,0,3,0,0,1,1,0,0,0,National Park,Intermountain ,WY,18340,5370,0,93,157,79
+Yellowstone NP,2015-01,5,4,0,0,2,0,0,0,0,0,0,0,National Park,Intermountain ,WY,28091,9800,0,128,144,89
+Yellowstone NP,2015-04,2,1,0,0,2,0,0,0,0,0,0,0,National Park,Intermountain ,WY,46600,0,0,1053,1306,112
+Yellowstone NP,2015-05,32,11,0,1,11,7,7,1,1,0,0,0,National Park,Intermountain ,WY,386064,43306,36651,5686,8150,1292
+Yellowstone NP,2015-06,30,10,0,0,17,0,0,4,2,0,0,0,National Park,Intermountain ,WY,780768,124376,134580,19363,12899,5631
+Yellowstone NP,2015-07,57,13,0,1,28,0,12,8,1,0,0,0,National Park,Intermountain ,WY,980702,106076,163336,27747,13408,14663
+Yellowstone NP,2015-08,26,6,0,0,17,0,6,3,0,0,0,0,National Park,Intermountain ,WY,854408,117106,155110,27597,12813,13703
+Yellowstone NP,2015-09,13,10,0,0,4,1,1,2,0,0,0,1,National Park,Intermountain ,WY,680213,120321,83008,17062,15610,7348
+Yellowstone NP,2015-10,10,3,0,0,7,0,2,1,0,0,0,0,National Park,Intermountain ,WY,252013,14974,12294,4797,4694,1296
+Yellowstone NP,2016-01,1,1,0,0,1,0,0,0,0,0,0,0,National Park,Intermountain ,WY,30621,9953,0,192,125,108
+Yellowstone NP,2016-02,8,4,0,0,4,1,0,0,1,0,0,0,National Park,Intermountain ,WY,36327,10494,0,106,179,440
+Yellowstone NP,2016-04,3,3,0,0,0,0,1,0,0,0,0,0,National Park,Intermountain ,WY,59253,0,550,1264,1728,170
+Yellowstone NP,2016-05,24,15,0,1,8,2,2,2,1,0,0,0,National Park,Intermountain ,WY,444630,36544,41393,5248,6618,1501
+Yellowstone NP,2016-06,63,17,0,2,27,5,8,4,4,0,0,0,National Park,Intermountain ,WY,838316,127306,134716,20381,13274,6604
+Yellowstone NP,2016-07,62,19,0,2,22,1,3,7,9,0,0,1,National Park,Intermountain ,WY,995917,120668,163452,29024,12998,14173
+Yellowstone NP,2016-08,72,17,1,1,38,2,6,9,4,0,0,1,National Park,Intermountain ,WY,841036,119995,152641,27075,12256,13412
+Yellowstone NP,2016-09,30,13,0,0,11,1,3,3,3,0,0,1,National Park,Intermountain ,WY,701754,132013,81302,14432,15968,6522
+Yellowstone NP,2016-10,19,7,0,0,12,0,1,3,1,0,0,0,National Park,Intermountain ,WY,242004,18193,9014,2877,4662,794
+Yellowstone NP,2016-11,3,2,0,0,2,0,0,0,0,0,0,0,National Park,Intermountain ,WY,24710,0,0,560,707,421
+Yellowstone NP,2016-12,8,3,0,0,7,0,0,0,0,0,0,0,National Park,Intermountain ,WY,19685,2994,0,42,118,143
+Yellowstone NP,2017-01,8,6,0,0,2,0,0,1,1,0,0,0,National Park,Intermountain ,WY,29518,6272,0,154,93,89
+Yellowstone NP,2017-03,5,4,0,1,1,0,0,1,0,0,0,0,National Park,Intermountain ,WY,23897,787,0,349,448,328
+Yellowstone NP,2017-04,5,2,0,0,4,0,0,0,0,0,0,0,National Park,Intermountain ,WY,45160,0,790,963,1344,135
+Yellowstone NP,2017-05,57,18,1,1,30,3,3,5,2,0,0,1,National Park,Intermountain ,WY,419635,35832,44591,5290,10541,1321
+Yellowstone NP,2017-06,93,21,1,6,33,9,7,6,4,0,0,0,National Park,Intermountain ,WY,803652,130074,140662,16938,12842,5304
+Yellowstone NP,2017-07,122,23,1,2,58,7,2,17,8,0,0,3,National Park,Intermountain ,WY,962404,128237,163149,28678,12413,12942
+Yellowstone NP,2017-08,82,16,1,4,39,0,7,12,4,0,0,0,National Park,Intermountain ,WY,916166,133646,162805,28960,12714,15515
+Yellowstone NP,2017-09,44,13,0,3,20,1,5,2,4,0,0,1,National Park,Intermountain ,WY,640068,141771,91178,12000,13946,6216
+Yellowstone NP,2017-10,19,9,0,0,8,0,0,2,0,0,0,0,National Park,Intermountain ,WY,211987,25863,7923,2477,4931,1010
+Yellowstone NP,2017-11,9,7,0,0,1,0,0,1,1,0,0,0,National Park,Intermountain ,WY,10468,0,0,253,218,237
+Yellowstone NP,2017-12,4,3,0,0,2,0,0,0,0,0,0,0,National Park,Intermountain ,WY,21294,4374,0,125,131,50
+Yellowstone NP,2018-01,20,10,0,1,10,0,0,0,1,0,0,0,National Park,Intermountain ,WY,29179,10069,0,118,141,104
+Yellowstone NP,2018-02,9,4,0,0,7,0,0,0,1,0,0,0,National Park,Intermountain ,WY,34263,10337,0,131,186,61
+Yellowstone NP,2018-03,2,1,0,0,2,0,0,0,0,0,0,0,National Park,Intermountain ,WY,22741,3591,0,227,365,173
+Yellowstone NP,2018-04,15,9,0,1,2,0,2,0,1,0,0,1,National Park,Intermountain ,WY,37766,0,1456,538,1446,91
+Yellowstone NP,2018-05,108,20,3,2,61,2,11,5,4,0,0,1,National Park,Intermountain ,WY,446875,43540,40905,3862,6122,1263
+Yellowstone NP,2018-06,74,15,1,2,32,11,5,12,2,0,0,1,National Park,Intermountain ,WY,810884,151190,135945,16627,13725,4741
+Yellowstone NP,2018-07,109,21,0,2,57,8,4,18,2,0,0,1,National Park,Intermountain ,WY,940563,133474,161476,26387,15331,13239
+Yellowstone NP,2018-08,51,14,1,3,26,0,2,9,2,0,0,1,National Park,Intermountain ,WY,813970,134072,149767,24458,15126,14180
+Yellowstone NP,2018-09,77,15,0,4,33,2,7,12,3,0,0,2,National Park,Intermountain ,WY,724454,146640,118722,13101,16150,7066
+Yellowstone NP,2018-10,22,7,0,0,11,0,3,2,2,0,0,1,National Park,Intermountain ,WY,218076,0,7818,2765,5744,905
+Yellowstone NP,2018-11,3,2,0,0,2,1,0,0,0,0,0,0,National Park,Intermountain ,WY,13849,0,0,214,259,139
+Yellowstone NP,2018-12,10,7,1,0,2,0,0,0,1,0,0,0,National Park,Intermountain ,WY,22380,0,0,134,176,16
+Yellowstone NP,2019-01,24,11,0,1,4,0,0,7,3,0,0,0,National Park,Intermountain ,WY,33896,6485,0,96,198,27
+Yellowstone NP,2019-02,17,6,0,0,4,0,0,4,0,0,0,0,National Park,Intermountain ,WY,31650,6222,0,32,83,81
+Yellowstone NP,2019-03,9,5,0,0,3,0,0,0,1,0,0,1,National Park,Intermountain ,WY,28695,0,0,182,294,115
+Yellowstone NP,2019-04,15,8,0,0,6,1,2,2,2,0,0,0,National Park,Intermountain ,WY,48150,0,1290,643,1517,80
+Yellowstone NP,2019-05,215,27,5,9,68,18,27,20,9,0,1,3,National Park,Intermountain ,WY,434385,38458,9520,4531,6906,929
+Yellowstone NP,2019-06,255,31,4,12,91,25,20,22,10,0,0,2,National Park,Intermountain ,WY,781853,142253,107667,13302,14541,4160
+Yellowstone NP,2019-07,224,35,0,6,96,20,12,25,8,0,0,6,National Park,Intermountain ,WY,936062,142253,138611,27136,16227,12556
+Yellowstone NP,2019-08,103,22,0,4,39,7,6,15,7,0,0,2,National Park,Intermountain ,WY,820006,129929,126832,22458,17389,13287
+Yellowstone NP,2019-09,134,19,0,7,58,5,12,18,15,0,0,3,National Park,Intermountain ,WY,693118,145510,85171,10822,18691,6034
+Yellowstone NP,2019-10,61,16,2,2,20,5,10,10,3,0,0,0,National Park,Intermountain ,WY,171339,38965,5562,1494,3834,905
+Yellowstone NP,2019-11,10,5,0,0,3,0,0,2,2,0,0,0,National Park,Intermountain ,WY,15628,0,0,182,419,9
+Yellowstone NP,2019-12,9,4,0,0,6,0,0,1,1,0,0,0,National Park,Intermountain ,WY,25506,3560,0,144,195,53
+Yosemite NP,2008-10,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,295547,53955,0,32305,22596,3805
+Yosemite NP,2009-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,586591,109059,0,130677,40800,48712
+Yosemite NP,2011-05,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,356588,78059,0,35575,36896,4226
+Yosemite NP,2012-05,2,1,0,0,0,0,0,0,0,0,0,2,National Park,Pacific West ,CA,356500,78226,0,37934,26788,9693
+Yosemite NP,2013-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,165409,36768,0,5950,9272,1343
+Yosemite NP,2013-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,231178,48277,0,27012,26376,1871
+Yosemite NP,2013-05,1,1,0,0,0,1,0,0,0,0,0,0,National Park,Pacific West ,CA,370422,74414,0,54719,24188,9469
+Yosemite NP,2013-06,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,508941,117031,0,89411,27932,29545
+Yosemite NP,2013-07,3,3,0,0,0,1,0,0,0,0,0,1,National Park,Pacific West ,CA,611538,110062,0,114832,56544,58983
+Yosemite NP,2013-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,552137,110283,0,92378,34936,51602
+Yosemite NP,2013-09,8,5,0,0,0,0,0,0,0,0,0,3,National Park,Pacific West ,CA,460855,84075,0,48365,37944,15814
+Yosemite NP,2014-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,242722,60558,0,23924,10348,0
+Yosemite NP,2014-05,5,3,0,0,0,1,0,0,0,0,0,3,National Park,Pacific West ,CA,333308,77383,0,46029,14580,11954
+Yosemite NP,2014-06,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,496363,117623,0,88975,30668,35173
+Yosemite NP,2014-07,7,4,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,623663,110138,0,105615,26540,61924
+Yosemite NP,2014-08,3,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,654157,111070,0,104217,25376,52048
+Yosemite NP,2014-10,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,354769,64545,0,30559,14640,4932
+Yosemite NP,2014-11,3,2,0,0,0,0,0,0,0,0,0,2,National Park,Pacific West ,CA,203678,41900,0,7221,5540,718
+Yosemite NP,2014-12,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,134491,43141,0,3772,3692,547
+Yosemite NP,2015-03,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,194667,113939,0,16773,6832,3034
+Yosemite NP,2015-04,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,281328,68440,0,38690,20388,3608
+Yosemite NP,2015-05,2,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,408121,77297,0,50694,36948,15069
+Yosemite NP,2015-06,4,4,0,0,0,1,0,0,0,0,0,1,National Park,Pacific West ,CA,545231,119924,0,95954,40192,42707
+Yosemite NP,2015-07,13,8,0,0,0,1,0,0,0,0,0,4,National Park,Pacific West ,CA,626009,109117,0,121937,52660,61924
+Yosemite NP,2015-08,7,4,0,0,0,0,0,0,0,0,0,2,National Park,Pacific West ,CA,636936,110022,0,116880,44948,48027
+Yosemite NP,2015-09,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,527402,106307,0,88597,32512,28548
+Yosemite NP,2015-11,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,169425,42232,0,10871,9644,661
+Yosemite NP,2015-12,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,140241,57613,0,2875,2204,0
+Yosemite NP,2016-02,2,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,201601,32744,0,5665,3036,1706
+Yosemite NP,2016-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,305092,54226,0,30405,29592,2505
+Yosemite NP,2016-05,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,457309,70026,0,44848,34068,11461
+Yosemite NP,2016-06,8,4,0,0,0,2,0,0,0,0,0,1,National Park,Pacific West ,CA,703614,78361,0,64090,45920,40216
+Yosemite NP,2016-07,5,4,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,780728,98544,0,106333,78060,62848
+Yosemite NP,2016-08,6,2,0,0,0,0,0,0,0,0,0,4,National Park,Pacific West ,CA,692450,103365,0,87435,59376,55045
+Yosemite NP,2016-09,9,4,0,0,0,0,0,0,0,0,0,2,National Park,Pacific West ,CA,598428,100420,0,83544,58980,31928
+Yosemite NP,2016-10,4,2,0,0,0,0,0,0,0,0,0,2,National Park,Pacific West ,CA,483232,59912,0,37584,31392,6420
+Yosemite NP,2016-11,4,3,0,0,0,1,0,0,0,0,0,1,National Park,Pacific West ,CA,218998,40500,0,15830,14128,2070
+Yosemite NP,2016-12,2,2,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,160646,36336,0,3341,2096,0
+Yosemite NP,2017-01,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,120025,20774,0,2673,1512,524
+Yosemite NP,2017-03,8,5,0,0,0,1,0,0,0,0,0,3,National Park,Pacific West ,CA,166793,36004,0,8550,9464,1618
+Yosemite NP,2017-04,2,2,0,0,0,1,0,0,0,0,0,1,National Park,Pacific West ,CA,302553,97516,0,28454,26220,1873
+Yosemite NP,2017-05,11,4,0,0,0,0,0,0,0,0,0,6,National Park,Pacific West ,CA,471844,128229,0,40621,31744,7590
+Yosemite NP,2017-06,11,7,0,0,0,3,0,0,0,0,0,3,National Park,Pacific West ,CA,565702,100905,0,43997,30396,21470
+Yosemite NP,2017-07,17,8,0,0,0,2,0,0,0,0,0,7,National Park,Pacific West ,CA,633351,89475,0,64138,39624,46706
+Yosemite NP,2017-08,20,8,0,0,0,2,0,0,0,0,0,11,National Park,Pacific West ,CA,615892,95182,0,97353,45604,47543
+Yosemite NP,2017-09,15,5,0,0,0,1,0,0,0,0,0,6,National Park,Pacific West ,CA,566279,97783,0,92634,44640,30670
+Yosemite NP,2017-10,14,9,0,0,0,1,0,0,0,0,0,3,National Park,Pacific West ,CA,429827,59912,0,54394,42300,7464
+Yosemite NP,2017-11,4,3,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,217927,40500,0,13921,12764,874
+Yosemite NP,2017-12,4,2,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,127276,36336,0,6783,6284,467
+Yosemite NP,2018-01,3,3,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,129432,27155,0,551,428,908
+Yosemite NP,2018-02,6,5,0,0,0,0,0,0,0,0,0,3,National Park,Pacific West ,CA,143321,26428,0,5860,5972,950
+Yosemite NP,2018-03,4,4,0,0,0,0,0,0,0,0,0,1,National Park,Pacific West ,CA,170681,38028,0,8743,9992,449
+Yosemite NP,2018-04,10,4,0,0,0,0,0,0,0,0,0,5,National Park,Pacific West ,CA,278349,51551,0,31141,29312,2028
+Yosemite NP,2018-05,22,10,0,0,0,6,0,0,0,0,0,3,National Park,Pacific West ,CA,385670,70712,0,43097,35412,8974
+Yosemite NP,2018-06,13,6,0,0,0,3,0,0,0,0,0,5,National Park,Pacific West ,CA,543690,107221,0,72270,48456,34108
+Yosemite NP,2018-07,30,13,0,0,0,3,0,0,0,0,0,10,National Park,Pacific West ,CA,504230,86144,0,67527,36400,42687
+Yosemite NP,2018-08,10,6,0,0,0,1,0,0,0,0,0,2,National Park,Pacific West ,CA,441867,23292,0,40542,25880,25816
+Yosemite NP,2018-09,14,7,0,0,0,3,0,0,0,0,0,7,National Park,Pacific West ,CA,524387,93083,0,33372,17540,0
+Yosemite NP,2018-10,18,10,0,0,0,0,0,0,0,0,0,6,National Park,Pacific West ,CA,360776,58375,0,30978,27124,6391
+Yosemite NP,2018-11,20,8,0,0,0,3,0,0,0,0,0,10,National Park,Pacific West ,CA,215854,40974,0,16369,18196,1433
+Yosemite NP,2018-12,7,4,0,0,0,1,0,0,0,1,0,4,National Park,Pacific West ,CA,311179,31309,0,4369,5036,833
+Yosemite NP,2019-01,4,2,0,0,0,0,0,0,0,0,0,3,National Park,Pacific West ,CA,116746,23306,0,2946,3388,538
+Yosemite NP,2019-02,6,6,0,0,0,0,0,0,0,1,0,2,National Park,Pacific West ,CA,111665,17093,0,488,400,635
+Yosemite NP,2019-03,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Pacific West ,CA,173610,30665,0,1043,1328,1468
+Yosemite NP,2019-04,15,10,0,0,0,4,0,0,0,0,0,2,National Park,Pacific West ,CA,297207,45741,0,20367,13668,1531
+Yosemite NP,2019-05,17,8,0,0,0,2,0,0,0,0,0,5,National Park,Pacific West ,CA,393004,59043,0,31507,16968,4924
+Yosemite NP,2019-06,29,12,0,0,0,5,0,1,0,1,0,9,National Park,Pacific West ,CA,496625,90910,0,36110,9524,19050
+Yosemite NP,2019-07,32,9,0,0,0,6,0,0,0,0,0,10,National Park,Pacific West ,CA,717462,84692,0,93530,32000,48052
+Yosemite NP,2019-08,54,14,0,0,0,4,0,0,0,0,0,13,National Park,Pacific West ,CA,703153,91329,0,116330,46524,42027
+Yosemite NP,2019-09,32,15,0,0,0,2,0,0,0,0,0,5,National Park,Pacific West ,CA,584664,99853,0,105165,41988,28464
+Yosemite NP,2019-10,20,10,0,0,0,2,0,0,0,0,0,7,National Park,Pacific West ,CA,448939,63733,0,43415,29664,7619
+Yosemite NP,2019-11,12,7,0,0,0,3,0,0,0,0,0,4,National Park,Pacific West ,CA,230598,40334,0,14666,12564,1182
+Yosemite NP,2019-12,16,7,0,0,0,0,0,0,0,0,0,3,National Park,Pacific West ,CA,149188,35574,0,4018,3932,88
+Zion NP,2009-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,372157,8975,0,14646,7543,6248
+Zion NP,2013-04,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,292765,8121,0,12671,11399,3833
+Zion NP,2013-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,379129,8639,0,16671,7488,12558
+Zion NP,2014-07,3,3,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,407153,8875,0,17511,6794,1860
+Zion NP,2014-08,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,391973,9412,0,17441,6856,2073
+Zion NP,2015-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,479538,9075,0,17272,7059,2483
+Zion NP,2015-08,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,455487,8572,0,17664,7376,2427
+Zion NP,2015-10,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,314966,6826,0,12728,8809,2297
+Zion NP,2015-12,2,1,0,0,0,0,0,0,0,0,0,2,National Park,Intermountain ,UT,97503,5271,0,1500,1343,149
+Zion NP,2016-02,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,117510,3743,0,2452,1587,289
+Zion NP,2016-06,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,544890,9909,0,17225,6679,3999
+Zion NP,2016-07,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,599961,9136,0,17904,6880,2481
+Zion NP,2016-08,3,3,0,0,0,0,0,1,0,0,0,1,National Park,Intermountain ,UT,477507,8795,0,17766,6978,2481
+Zion NP,2016-09,2,1,0,0,0,0,0,0,0,0,0,2,National Park,Intermountain ,UT,497825,8588,0,15688,8063,3245
+Zion NP,2016-10,4,3,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,412916,6857,0,12825,6888,3767
+Zion NP,2016-11,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,232271,7222,0,8972,5582,1425
+Zion NP,2016-12,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,124438,5525,0,1633,1099,760
+Zion NP,2017-03,5,5,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,345476,9081,0,13840,6985,2871
+Zion NP,2017-05,5,3,0,0,0,0,0,0,0,0,0,4,National Park,Intermountain ,UT,509017,6906,0,14315,7799,4234
+Zion NP,2017-06,3,2,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,533252,9639,0,16918,6833,3209
+Zion NP,2017-07,15,10,0,0,0,0,0,0,0,1,0,2,National Park,Intermountain ,UT,576349,8968,0,17498,6391,2588
+Zion NP,2017-08,8,5,0,0,0,0,0,0,0,0,0,3,National Park,Intermountain ,UT,529684,8872,0,17438,6887,2018
+Zion NP,2017-10,3,2,0,0,0,0,0,0,0,0,0,2,National Park,Intermountain ,UT,422377,6960,0,12850,9177,2822
+Zion NP,2017-11,5,3,0,0,0,0,0,0,0,0,0,2,National Park,Intermountain ,UT,222069,7191,0,9363,7355,1250
+Zion NP,2018-01,1,1,0,0,0,0,0,0,0,0,0,0,National Park,Intermountain ,UT,107960,4683,0,1987,1120,170
+Zion NP,2018-02,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,127790,3775,0,2123,1410,291
+Zion NP,2018-03,7,4,0,0,0,0,0,0,0,0,0,2,National Park,Intermountain ,UT,373523,7719,0,12949,6828,2634
+Zion NP,2018-04,4,2,0,0,0,0,0,0,0,0,0,3,National Park,Intermountain ,UT,483487,8536,0,15571,9258,3640
+Zion NP,2018-05,6,3,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,500118,7066,0,14186,7917,4211
+Zion NP,2018-06,9,5,0,0,0,0,0,0,0,0,0,2,National Park,Intermountain ,UT,541464,9721,0,15103,8198,3196
+Zion NP,2018-07,5,2,0,0,0,0,0,0,0,0,0,3,National Park,Intermountain ,UT,500350,8968,0,17116,7428,2079
+Zion NP,2018-08,4,1,0,0,0,0,0,0,0,0,0,4,National Park,Intermountain ,UT,459415,9072,0,16635,8174,2172
+Zion NP,2018-09,1,1,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,481507,8677,0,14583,9459,1547
+Zion NP,2018-10,6,2,0,0,0,0,0,0,0,0,0,4,National Park,Intermountain ,UT,377826,6909,0,12335,6709,1824
+Zion NP,2018-11,3,1,0,0,0,0,0,0,0,0,0,3,National Park,Intermountain ,UT,218799,7225,0,8620,4186,1054
+Zion NP,2018-12,3,2,0,0,0,0,0,0,0,0,0,2,National Park,Intermountain ,UT,147794,4241,0,1780,1329,146
+Zion NP,2019-01,3,2,0,0,0,0,0,0,0,0,0,3,National Park,Intermountain ,UT,98828,2999,0,1574,1649,2
+Zion NP,2019-03,9,4,0,0,0,0,0,0,0,0,0,5,National Park,Intermountain ,UT,296316,5079,0,7485,7940,1111
+Zion NP,2019-04,20,12,0,0,0,0,0,0,0,0,0,4,National Park,Intermountain ,UT,372349,7633,0,11081,8453,1919
+Zion NP,2019-05,15,4,0,0,0,0,0,1,0,0,0,6,National Park,Intermountain ,UT,529553,6980,0,14108,9292,3266
+Zion NP,2019-06,13,5,0,0,0,0,0,0,0,0,0,6,National Park,Intermountain ,UT,594896,9909,0,16098,9132,2889
+Zion NP,2019-07,3,3,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,629802,8959,0,18330,9046,2081
+Zion NP,2019-08,9,4,0,0,0,0,0,0,0,0,0,3,National Park,Intermountain ,UT,535322,11167,0,17568,8042,1721
+Zion NP,2019-09,4,3,0,0,0,0,0,0,0,0,0,1,National Park,Intermountain ,UT,497443,8633,0,12482,8182,2007
+Zion NP,2019-10,4,2,0,0,0,0,0,0,0,0,0,3,National Park,Intermountain ,UT,429604,6762,0,11009,8969,2117
+Zion NP,2019-11,5,2,0,0,0,0,0,0,0,0,0,4,National Park,Intermountain ,UT,230180,6291,0,5650,5774,970
+Zion NP,2019-12,3,1,0,0,0,0,0,0,0,0,0,3,National Park,Intermountain ,UT,171706,5752,0,1895,1493,166
